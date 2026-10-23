@@ -1,7 +1,14 @@
 {
   "data": [
     {
-      "name": "Sayfalar",
+      "name": {
+        "tr": "Sayfalar",
+        "en": "Sayfalar",
+        "ar": "Sayfalar",
+        "de": "Sayfalar",
+        "ru": "Sayfalar",
+        "es": "Sayfalar"
+      },
       "path": "page",
       "desc": [],
       "data": [],
@@ -19,7 +26,14 @@
       }
     },
     {
-      "name": "Kurumsal",
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Kurumsal",
+        "ar": "Kurumsal",
+        "de": "Kurumsal",
+        "ru": "Kurumsal",
+        "es": "Kurumsal"
+      },
       "path": "kurumsal",
       "desc": [],
       "data": [],
@@ -38,7 +52,14 @@
       }
     },
     {
-      "name": "Ürünler",
+      "name": {
+        "tr": "Ürünler",
+        "en": "Ürünler",
+        "ar": "Ürünler",
+        "de": "Ürünler",
+        "ru": "Ürünler",
+        "es": "Ürünler"
+      },
       "path": "products",
       "desc": [],
       "data": [],
@@ -58,7 +79,14 @@
       }
     },
     {
-      "name": "Servislerimiz",
+      "name": {
+        "tr": "Servislerimiz",
+        "en": "Servislerimiz",
+        "ar": "Servislerimiz",
+        "de": "Servislerimiz",
+        "ru": "Servislerimiz",
+        "es": "Servislerimiz"
+      },
       "path": "services",
       "desc": [],
       "data": [],
@@ -66,9 +94,3 @@
     }
   ]
 }
-
-
-
-
-
-

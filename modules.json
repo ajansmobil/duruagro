@@ -130,6 +130,14 @@
         {
           "icon": "email",
           "text": "info@duruagro.com"
+        },
+        {
+          "icon": "badge",
+          "text": "Ticaret Sicil No: 74102"
+        },
+        {
+          "icon": "verified",
+          "text": "Vergi No: Şehitkamil / 319 048 8614"
         }
       ],
       "id": "cse50u"
