@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Teknik Destek",
+        "en": "Technical Support",
+        "ar": "الدعم الفني",
+        "de": "Technischer Support",
+        "ru": "Техническая поддержка",
+        "es": "Soporte técnico"
+      },
+      "status": "play",
+      "category": "Support",
+      "id": "wd5rk231mu",
+      "externalUrl": "",
+      "path": "teknikdestek",
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Kurulum Hizmetleri",
+        "en": "Installation Services",
+        "ar": "خدمات التركيب",
+        "de": "Installationsdienste",
+        "ru": "Услуги по установке",
+        "es": "Servicios de instalación"
+      },
+      "status": "play",
+      "category": "Installation",
+      "id": "k8m2n4p6q9",
+      "externalUrl": "",
+      "path": "kurulumhizmetleri",
+      "index": 1
+    }
+  ]
+}

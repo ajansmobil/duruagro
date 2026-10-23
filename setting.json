@@ -1,0 +1,28 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Duru Agro Gıda Makinaları"
+  },
+  "keyword": {
+    "tr": "Duru Agro Gıda Makinaları"
+  },
+  "category": "",
+  "name": "Duru Agro Gıda Makinaları",
+  "domain": "duruagro.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": true,
+    "ru": true,
+    "es": true,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png"
+}

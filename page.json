@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Institutional",
+        "ar": "المؤسسية",
+        "de": "Institutionell",
+        "ru": "Институциональный",
+        "es": "Institucional"
+      },
+      "status": "play",
+      "category": "",
+      "id": "kon3dtxl3s",
+      "externalUrl": "",
+      "path": "kurumsal",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [
+          "i3nbwy"
+        ],
+        "footer": []
+      },
+      "icon": "home",
+      "pathnext": "",
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Ürünlerimiz",
+        "en": "Our Products",
+        "ar": "منتجاتنا",
+        "de": "Unsere Produkte",
+        "ru": "Наши продукты",
+        "es": "Nuestros productos"
+      },
+      "status": "play",
+      "category": "",
+      "id": "cu4iugms2p",
+      "externalUrl": "",
+      "path": "urunlerimiz",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "nwauty"
+        ],
+        "footer": []
+      },
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакт",
+        "es": "Contacto"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ujeqfp2t0k",
+      "externalUrl": "",
+      "path": "iletisim",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "cse50u",
+          "u7nton"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "bgimg": "1.jpg"
+    }
+  ],
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "body": true,
+    "detail": true
+  }
+}

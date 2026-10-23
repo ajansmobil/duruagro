@@ -1,0 +1,326 @@
+{
+  "name": "Ürünler",
+  "path": "products",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "4 Katlı Temizleme Eleği",
+        "en": "4-Piece Cleaning Sieve",
+        "ar": "منخل تحميص 4 قطعة",
+        "de": "Vierer-Sieb für Reinigung",
+        "es": "Máscara de clasificación de 4 partes",
+        "ru": "4 -Storey Cleaning Element"
+      },
+      "status": "play",
+      "category": "",
+      "id": "g0dbhk18mz",
+      "url": "4-katli-temizleme-elegi",
+      "path": "4katlitemizlemeelegi",
+      "index": 0,
+      "img": "x9dfr.jpg",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Döner Kavurma Makinesi",
+        "en": "Doner Roasting Machine",
+        "ar": "ماكينة تحميص الدونر",
+        "de": "Döner-Bratmaschine",
+        "es": "Máquina para asar doners",
+        "ru": "Машина для жарки донера"
+      },
+      "status": "play",
+      "category": "Roasting Equipment",
+      "id": "c29hzvm3te",
+      "url": "doner-roasting-machine",
+      "path": "donerkavurmamakinesi",
+      "index": 1,
+      "img": "o46cc.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Fıstık Kırma Makinesi",
+        "en": "Peanut Crushing Machine",
+        "ar": "آلة طحن الفول السوداني",
+        "de": "Erdnuss-Zerkleinerungsmaschine",
+        "es": "Máquina trituradora de maní",
+        "ru": "Фисташковая машина"
+      },
+      "status": "play",
+      "category": "Crushing Equipment",
+      "id": "h1s8csxbk8",
+      "url": "peanut-crushing-machine",
+      "path": "fistikkirmamakinesi",
+      "index": 2,
+      "img": "jjm56.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Hafif Tane Ayıklama Makinası",
+        "en": "Light Grain Sorting Machine",
+        "ar": "ماكينة فرز الحبوب الخفيفة",
+        "de": "Sortiermaschine für leichtes Getreide",
+        "es": "Máquina clasificadora de granos ligeros",
+        "ru": "Слегка сортировочная машина"
+      },
+      "status": "play",
+      "category": "Sorting Equipment",
+      "id": "g9z1rp5hcq",
+      "url": "light-grain-sorting-machine",
+      "path": "hafiftaneayiklamamakinasi",
+      "index": 3,
+      "img": "cmo9v.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "İç Fıstık Kalibrasyon Eleği",
+        "en": "Pistachio Calibration Sieve",
+        "ar": "منخل معايرة الفستق",
+        "de": "Pistazien-Kalibriersieb",
+        "es": "Tamiz de calibración de pistacho",
+        "ru": "Внутреннее калибровочное сито с арахисом"
+      },
+      "status": "play",
+      "category": "Calibration Equipment",
+      "id": "ouyknqov2f",
+      "url": "pistachio-calibration-sieve",
+      "path": "icfistikkalibrasyonelegi",
+      "index": 4,
+      "img": "w4j5q.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Paletli Kavurma Fırını",
+        "en": "Pallet Roasting Oven",
+        "ar": "فرن تحميص البليت",
+        "de": "Paletten-Bratofen",
+        "es": "Horno de asado de paletas",
+        "ru": "Палитра жаркая духовка"
+      },
+      "status": "play",
+      "category": "",
+      "id": "kpyewtvsc8",
+      "url": "paletli-kavurma-firini",
+      "path": "paletlikavurmafirini",
+      "index": 5,
+      "img": "szpwf.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Savurma Makinesı",
+        "en": "Winding Machine",
+        "ar": "آلة لف",
+        "de": "Wickelmaschine",
+        "es": "Máquina de bobinado",
+        "ru": "Качающаяся машина"
+      },
+      "status": "play",
+      "category": "",
+      "id": "o77466x92r",
+      "url": "savurma-makinesi",
+      "path": "savurmamakinesi",
+      "index": 6,
+      "img": "sjyaw.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Taş Ayırma Makinası",
+        "en": "Stone Separating Machine",
+        "ar": "آلة فصل الحجر",
+        "de": "Steintrennmaschine",
+        "es": "Máquina separadora de piedra",
+        "ru": "Каменная отделка"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ketmzfa09e",
+      "url": "tas-ayirma-makinasi",
+      "path": "tasayirmamakinasi",
+      "index": 7,
+      "img": "st2tk.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Elevatör 1",
+        "en": "Elevator 1",
+        "ar": "مصعد 1",
+        "de": "Aufzug 1",
+        "es": "Ascensor 1",
+        "ru": "Лифт 1"
+      },
+      "status": "play",
+      "category": "",
+      "id": "al4iwmdtey",
+      "url": "elevator-1",
+      "path": "elevator1",
+      "index": 8,
+      "img": "caayx.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Elevatör 2",
+        "en": "Elevator 2",
+        "ar": "مصعد 2",
+        "de": "Aufzug 2",
+        "es": "Ascensor 2",
+        "ru": "Лифт 2"
+      },
+      "status": "play",
+      "category": "",
+      "id": "kmnvuyqxp0",
+      "url": "elevator-2",
+      "path": "elevator2",
+      "index": 9,
+      "img": "q6in3.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Elevatör 3",
+        "en": "Elevator 3",
+        "ar": "مصعد 3",
+        "de": "Aufzug 3",
+        "es": "Ascensor 3",
+        "ru": "Лифт 3"
+      },
+      "status": "play",
+      "category": "",
+      "id": "abibxovppd",
+      "url": "elevator-3",
+      "path": "elevator3",
+      "index": 10,
+      "img": "zsyjy.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Elevatör 4",
+        "en": "Elevator 4",
+        "ar": "مصعد 4",
+        "de": "Aufzug 4",
+        "es": "Ascensor 4",
+        "ru": "Лифт 4"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ymsjlmnjje",
+      "url": "elevator-4",
+      "path": "elevator4",
+      "index": 11,
+      "img": "ftxvs.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Elevatör 5",
+        "en": "Elevator 5",
+        "ar": "مصعد 5",
+        "de": "Aufzug 5",
+        "es": "Ascensor 5",
+        "ru": "Лифт 5"
+      },
+      "status": "play",
+      "category": "",
+      "id": "bhhu4xxqwu",
+      "url": "elevator-5",
+      "path": "elevator5",
+      "index": 12,
+      "img": "wxycg.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Elevatör 6",
+        "en": "Elevator 6",
+        "ar": "مصعد 6",
+        "de": "Aufzug 6",
+        "es": "Ascensor 6",
+        "ru": "Лифт 6"
+      },
+      "status": "play",
+      "category": "",
+      "id": "p0oj58ed66",
+      "url": "elevator-6",
+      "path": "elevator6",
+      "index": 13,
+      "img": "nv0rd.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Elevatör 7",
+        "en": "Elevator 7",
+        "ar": "مصعد 7",
+        "de": "Aufzug 7",
+        "es": "Ascensor 7",
+        "ru": "Лифт 7"
+      },
+      "status": "play",
+      "category": "",
+      "id": "rjf6l83hy2",
+      "url": "elevator-7",
+      "path": "elevator7",
+      "index": 14,
+      "img": "desas.jpg",
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    }
+  ],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "sw29xb"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": true,
+    "detail": true,
+    "body": false
+  }
+}

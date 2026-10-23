@@ -1,0 +1,219 @@
+{
+  "name": "Kurumsal",
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About Us",
+        "ar": "معلومات عنا",
+        "de": "Über uns",
+        "ru": "О нас",
+        "es": "Sobre nosotros"
+      },
+      "status": "play",
+      "category": "About",
+      "id": "h1k2m3n4p5",
+      "url": "hakkimizda",
+      "path": "hakkimizda",
+      "index": 0,
+      "desc": {},
+      "icon": "home",
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Vizyon & Misyon",
+        "en": "Vision & Mission",
+        "ar": "الرؤية والرسالة",
+        "de": "Vision & Mission",
+        "ru": "Видение и миссия",
+        "es": "Visión y Misión"
+      },
+      "status": "play",
+      "category": "Vision",
+      "id": "v1m2n3p4q5",
+      "url": "vizyon-misyon",
+      "path": "vizyonmisyon",
+      "index": 1,
+      "desc": {},
+      "icon": "home",
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Misyon",
+        "en": "Mission",
+        "ar": "مهمة",
+        "de": "Mission",
+        "ru": "Миссия",
+        "es": "Misión"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2,
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Vizyon",
+        "en": "Vision",
+        "ar": "رؤية",
+        "de": "Vision",
+        "ru": "Зрение",
+        "es": "Visión"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3,
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız",
+        "en": "Our Quality Policy",
+        "ar": "سياسة الجودة لدينا",
+        "de": "Unsere Qualitätspolitik",
+        "ru": "Наша качественная политика",
+        "es": "Nuestra política de calidad"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalitepolitikamiz",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4,
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy",
+        "ar": "سياسة الخصوصية",
+        "de": "Datenschutzrichtlinie",
+        "ru": "политика конфиденциальности",
+        "es": "política de privacidad"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilikpolitikasi",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5,
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "البيانات الشخصية",
+        "de": "Persönliche Daten",
+        "ru": "Персональные данные",
+        "es": "Datos personales"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisiselveriler",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6,
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights",
+        "ar": "حقوق المستخدم",
+        "de": "Benutzerrechte",
+        "ru": "Права пользователя",
+        "es": "Derechos de usuario"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanicihaklari",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7,
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı",
+        "en": "Legal warning",
+        "ar": "تحذير قانوني",
+        "de": "Rechtswarnung",
+        "ru": "Юридическое предупреждение",
+        "es": "Advertencia legal"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasaluyari",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 8,
+      "icon": "home",
+      "desc": {},
+      "bgimg": "1.jpg"
+    }
+  ],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "i3nbwy"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "detail": true,
+    "bgimg": true,
+    "body": true
+  }
+}
