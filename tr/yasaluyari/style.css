@@ -733,8 +733,8 @@
     gap: 20px;
   }
   .b0000-menu {
-    width: 220px;
-    background-color: --menubgcolor--;
+      width: 220px;
+      background-color: var(--menubgcolor, transparent);
     border-radius: 5px;
     padding: 15px;
     display: flex;
