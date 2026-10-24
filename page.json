@@ -70,11 +70,38 @@
       "desing": {
         "header": [],
         "body": [
+          "iltadr",
           "cse50u",
           "u7nton"
         ],
         "footer": []
       },
+      "pathnext": "",
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Hizmetler",
+        "en": "Services",
+        "ar": "خدماتنا",
+        "de": "Dienstleistungen",
+        "ru": "Услуги",
+        "es": "Servicios"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hzmler",
+      "externalUrl": "",
+      "path": "services",
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [
+          "svcpge"
+        ],
+        "footer": []
+      },
+      "icon": "home",
       "pathnext": "",
       "bgimg": "1.jpg"
     }

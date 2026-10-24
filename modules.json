@@ -8,7 +8,10 @@
       "category": "menu",
       "desing": {
         "logo": "logo.png",
-        "bgcolor": "#1e3046"
+        "bgcolor": "#060933",
+        "color": "#ffffff",
+        "activebgcolor": "#ffffff",
+        "activecolor": "#060933"
       },
       "id": "few360"
     },
@@ -41,19 +44,64 @@
       "id": "stxnyo"
     },
     {
+      "index": 2,
+      "name": "Tanıtım",
+      "path": "module-tanitim-2",
+      "local": "body",
+      "category": "module",
+      "desing": {
+        "name": {
+          "tr": "Bizi Tanıyın",
+          "en": "About Us",
+          "ar": "تعرف علينا"
+        },
+        "description": {
+          "tr": "Duru Agro Gıda Makinaları; temizleme, ayıklama, kırma, kavurma ve kalibrasyon makineleriyle gıda işleme hatlarının makina çözüm ortağıdır. Gaziantep'teki tesisimizden Türkiye ve yurt dışına üretim, kurulum ve satış sonrası destek sunuyoruz.",
+          "en": "Duru Agro Food Machinery is the machinery partner of food processing lines, with cleaning, sorting, cracking, roasting and calibration machines. From our facility in Gaziantep we deliver production, installation and after-sales support across Turkey and abroad.",
+          "ar": "دورو آغرو للآلات الغذائية شريككم في خطوط معالجة الأغذية بمعدات الغسيل والفرز والكسر والتحميص والمعايرة. من منشأتنا في غازي عنتاب نقدم الإنتاج والتركيب والدعم ما بعد البيع إلى تركيا وخارجها."
+        },
+        "name2": {
+          "tr": "Vizyonumuz",
+          "en": "Our Vision",
+          "ar": "رؤيتنا"
+        },
+        "spot2": {
+          "tr": "Gıda işleme makinelerinde kalite, verimlilik ve sürdürülebilirlikle öncü marka olmak.",
+          "en": "To be a leading brand in food processing machinery with quality, efficiency and sustainability.",
+          "ar": "أن نصبح علامة رائدة في آلات معالجة الأغذية بالجودة والكفاءة والاستدامة."
+        },
+        "name3": {
+          "tr": "Misyonumuz",
+          "en": "Our Mission",
+          "ar": "رسالتنا"
+        },
+        "spot3": {
+          "tr": "Her tesise özel, dayanıklı ve verimli makina çözümlerini hızlı teslim ve satış sonrası desteyle sunmak.",
+          "en": "Delivering plant-specific, durable and efficient machinery solutions with fast delivery and after-sales support.",
+          "ar": "تقديم حلول آلات مناسبة لكل منشأة، متينة وفعالة، مع تسليم سريع ودعم بعد البيع."
+        },
+        "img": "index.jpg",
+        "bgcolor": "#060933",
+        "fontcolor": "#ffffff",
+        "margintop": "20",
+        "marginbotton": "20"
+      },
+      "id": "t2duru"
+    },
+    {
+      "index": 3,
       "name": "Footer 1",
       "path": "footer-1",
       "local": "footer",
       "category": "footer",
       "desing": {
-        "bgcolor": "#1e3046",
+        "bgcolor": "#060933",
         "color": "#fff"
       },
-      "id": "dlcz27",
-      "index": 2
+      "id": "dlcz27"
     },
     {
-      "index": 3,
+      "index": 4,
       "name": "Maps",
       "path": "map",
       "local": "body",
@@ -62,26 +110,43 @@
         "height": "200",
         "opacity": "0.5",
         "backgroundcolor": "#fff",
-        "color": "#1e3046",
+        "color": "#060933",
         "img": "map.png",
         "externalUrl": ""
       },
       "id": "u7nton"
     },
     {
-      "index": 4,
+      "index": 5,
       "name": "Ürünlerimiz",
       "path": "page-list",
       "local": "body",
       "category": "page-list",
       "desing": {
         "page": "products",
-        "size": 4
+        "size": 4,
+        "accent": "#060933",
+        "showAllProducts": true,
+        "eyebrow": {
+          "tr": "Ürünlerimiz",
+          "en": "Our Products",
+          "ar": "منتجاتنا"
+        },
+        "sectionTitle": {
+          "tr": "Gıda İşleme Makina Çözümleri",
+          "en": "Food Processing Machinery Solutions",
+          "ar": "حلول آلات معالجة الأغذية"
+        },
+        "sectionSubtitle": {
+          "tr": "Temizleme, ayıklama, kırma, kavurma, kalibrasyon ve asansör hatları — her hatta uygun makina modelini seçin.",
+          "en": "Cleaning, sorting, cracking, roasting, calibration and elevator lines — choose the machine model that fits your line.",
+          "ar": "خطوط الغسيل والفرز والكسر والتحميص والمعايرة والنقل — اختر نموذج الآلة المناسب لخطك."
+        }
       },
       "id": "nwauty"
     },
     {
-      "index": 5,
+      "index": 6,
       "name": "Whatsapp",
       "path": "whatsapp",
       "local": "footer",
@@ -100,13 +165,14 @@
       "id": "n888tu"
     },
     {
-      "index": 6,
+      "index": 7,
       "name": "İletişim",
       "path": "contact-3",
       "local": "body",
       "category": "contact",
       "desing": {
-        "color": "#1e3046",
+        "color": "#060933",
+        "linkcolor": "#060933",
         "name": {
           "tr": "Bize Ulaşın",
           "en": "Contact us",
@@ -143,7 +209,7 @@
       "id": "cse50u"
     },
     {
-      "index": 7,
+      "index": 8,
       "name": "Ürünler Desing",
       "path": "page-desing-2",
       "local": "body",
@@ -152,14 +218,14 @@
         "height": "200",
         "opacity": "0.5",
         "font-size": "50",
-        "backgroundcolor": "#000",
+        "backgroundcolor": "#060933",
         "category": "products",
-        "menu-active": "#1e3046"
+        "menu-active": "#060933"
       },
       "id": "sw29xb"
     },
     {
-      "index": 8,
+      "index": 9,
       "name": "Kurumsal Desing",
       "path": "page-desing-3",
       "local": "body",
@@ -168,10 +234,47 @@
         "height": "200",
         "opacity": "0.5",
         "font-size": "50",
-        "backgroundcolor": "#000",
-        "category": "kurumsal"
+        "backgroundcolor": "#060933",
+        "category": "kurumsal",
+        "menu-active": "#060933"
       },
       "id": "i3nbwy"
+    },
+    {
+      "index": 10,
+      "name": "Hizmetler Desing",
+      "path": "page-desing-3",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#060933",
+        "category": "services",
+        "menu-active": "#060933"
+      },
+      "id": "svcpge"
+    },
+    {
+      "id": "iltadr",
+      "name": "İletişim Bilgileri",
+      "category": "",
+      "path": "text-module",
+      "desing": {
+        "name": {
+          "tr": "Duru Agro Gıda Makinaları — Sanayi Mah. 60215 Cad. No:59, Şehitkamil / Gaziantep · Tel: 0 530 233 66 72 · E-posta: info@duruagro.com",
+          "en": "Duru Agro Food Machinery — Sanayi Mah. 60215 Cad. No:59, Şehitkamil / Gaziantep, Türkiye · Tel: +90 530 233 66 72 · Email: info@duruagro.com",
+          "ar": "دورو آغرو للآلات الغذائية — شارع 60215، حي الصناعية، شهيت كامل / غازي عنتاب، تركيا · هاتف: 72 66 233 530 90+ · بريد إلكتروني: info@duruagro.com"
+        },
+        "bgcolor": "#F4F5FB",
+        "color": "#060933",
+        "padding": "22px 18px",
+        "margin": "0 0 20px 0",
+        "font-size": "16px"
+      },
+      "local": "body",
+      "index": 6
     }
   ]
 }

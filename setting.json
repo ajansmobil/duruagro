@@ -24,5 +24,26 @@
     "ko": false,
     "pt": false
   },
-  "logo": "logo.png"
+  "logo": "logo-old-kirmizi.png",
+  "eticaret": false,
+  "cari": false,
+  "modSiparis": false,
+  "modOdeme": false,
+  "modKargo": false,
+  "modSepet": false,
+  "modUyeler": false,
+  "modUyeAdres": false,
+  "publishMode": "static",
+  "cloudflare": {
+    "workerName": "mx-duruagro",
+    "workerUrl": "",
+    "d1DatabaseId": "",
+    "r2Bucket": "mx-duruagro-r2",
+    "status": "none",
+    "lastPushAt": "",
+    "lastPullAt": "",
+    "remoteNewer": false,
+    "provisionStub": true,
+    "lastError": ""
+  }
 }

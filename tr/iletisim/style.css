@@ -64,18 +64,18 @@
     padding: 6px 12px;
     font-size: 13px;
     letter-spacing: 0.02em;
-    color: #1e3046 !important;
+    color: #060933 !important;
     text-decoration: none;
-    border: 1px solid color-mix(in srgb, #1e3046 40%, transparent);
+    border: 1px solid color-mix(in srgb, #060933 40%, transparent);
     border-radius: 8px;
     transition: border-color 0.2s ease, background 0.2s ease, color 0.2s ease;
     cursor: pointer;
   }
 
   .h0000titlebodylang li a:hover {
-    border-color: #000000;
+    border-color: #060933;
     background: #ffffff;
-    color: #000000 !important;
+    color: #060933 !important;
   }
 
   .h0000body {
@@ -114,7 +114,7 @@
   
   .h0000-mobile-toggle {
     display: none;
-    background: #1e3046;
+    background: #060933;
     color: #ffffff;
     border: none;
     border-radius: 6px;
@@ -139,7 +139,7 @@
 
   .h0000menulist {
     width: calc(100% - 20px);
-    background-color: #1e3046;
+    background-color: #060933;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -148,7 +148,7 @@
 
   .h0000menubody {
     width: 100%;
-    background-color: #1e3046;
+    background-color: #060933;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -192,7 +192,7 @@
   .h0000menulist-menu > a:hover,
   .dropdown-content-h0000 > a:hover {
     background-color: #ffffff !important;
-    color: #000000 !important;
+    color: #060933 !important;
     opacity: 1;
     cursor: pointer;
   }
@@ -212,7 +212,7 @@
   .h0000menulist-menu > a.h0000-menu-list-active,
   .h0000menulist-menu.dropdown-content-active-h0000 > a {
     background-color: #ffffff !important;
-    color: #000000 !important;
+    color: #060933 !important;
     border-radius: 5px;
     cursor: pointer;
     box-shadow: none;
@@ -279,7 +279,7 @@
     right: 0;
     min-width: 200px;
     margin-top: 0;
-    background-color: #1e3046;
+    background-color: #060933;
     border-radius: 5px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
     padding: 0;
@@ -331,8 +331,8 @@
 
   .dropdown-content-h0000 > a.h0000-menu-list-active {
     background-color: #ffffff !important;
-    color: #000000 !important;
-    border-left: 3px solid #000000;
+    color: #060933 !important;
+    border-left: 3px solid #060933;
     padding-left: 11px;
     border-radius: 0;
     cursor: pointer;
@@ -398,12 +398,12 @@
 
   .h0000languages-mobile li:hover {
     background-color: #ffffff;
-    border-color: #000000;
-    box-shadow: 0 2px 8px color-mix(in srgb, #000000 25%, transparent);
+    border-color: #060933;
+    box-shadow: 0 2px 8px color-mix(in srgb, #060933 25%, transparent);
   }
 
   .h0000languages-mobile li:hover a {
-    color: #000000 !important;
+    color: #060933 !important;
   }
 
   
@@ -427,7 +427,7 @@
 
   .h0000-menu2-drawer-close:hover {
     background-color: #ffffff;
-    color: #000000;
+    color: #060933;
   }
 
   
@@ -646,13 +646,13 @@
     .h0000menulist-menu > a:hover,
     .h0000menulist-menu .dropdown-content-h0000 > a:hover {
       background-color: #ffffff !important;
-      color: #000000 !important;
+      color: #060933 !important;
       border-radius: 0;
     }
 
     .h0000menulist-menu:hover > a::after,
     .h0000menulist-menu > a:hover::after {
-      color: #000000;
+      color: #060933;
       opacity: 1;
     }
 
@@ -661,13 +661,13 @@
     .h0000menulist-menu > a.h0000-menu-list-active,
     .h0000menulist-menu.dropdown-content-active-h0000 > a {
       border-radius: 0;
-      box-shadow: inset 4px 0 0 #000000;
+      box-shadow: inset 4px 0 0 #060933;
     }
 
     .h0000menulist-menu .dropdown-content-h0000 > a.h0000-menu-list-active {
       border-left: none;
       padding-left: 28px;
-      box-shadow: inset 4px 0 0 #000000;
+      box-shadow: inset 4px 0 0 #060933;
     }
 
     .h0000menulist-menu {
@@ -685,7 +685,7 @@
       padding: 0;
       box-shadow: none;
       border-radius: 0;
-      background-color: color-mix(in srgb, #ffffff 5%, #1e3046);
+      background-color: color-mix(in srgb, #ffffff 5%, #060933);
     }
 
     .h0000menulist-menu.h0000-dropdown-open .dropdown-content-h0000 {
@@ -723,7 +723,61 @@
   }
 
 
-  .b0000 {
+  
+  .b0000-text-module-body {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 20px 0;
+    padding: 22px 18px;
+    font-size: 16px;
+    color: #060933;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.5;
+    border-radius: 8px;
+    background: #F4F5FB;
+    -webkit-font-smoothing: antialiased;
+  }
+  @media screen and (max-width: 768px) {
+    .b0000-text-module-body {
+      padding: 12px;
+    }
+  }
+
+  
+  @keyframes b0000W2Enter {
+    from { opacity: 0.98; }
+    to { opacity: 1; }
+  }
+
+  [class*="b0000"] {
+    box-sizing: border-box;
+    animation: b0000W2Enter 0.3s ease;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+  }
+
+  a, button, [role="button"], input[type="submit"], input[type="button"] {
+    cursor: pointer;
+  }
+
+  @media (max-width: 768px) {
+    [class*="b0000"] {
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    [class*="b0000"] {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+
+
+  .b0001 {
     width: 100%;
     margin: 30px 0px 30px 0px;
     display: flex;
@@ -732,14 +786,14 @@
     position: relative;
   }
 
-  .b0000containertitle {
+  .b0001containertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin: 0 0 20px 0;
   }
 
-  .b0000containerlist {
+  .b0001containerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -747,29 +801,29 @@
     gap: 20px;
     transition: background-color 0.3s ease;
     text-decoration: none;
-    color: #1B3A6B;
+    color: #060933;
   }
 
-  .b0000containerlist>div {
+  .b0001containerlist>div {
     display: flex;
     align-items: center;
     font-size: 20px;
-    color: #1B3A6B;
+    color: #060933;
   }
 
-  .b0000containerlist:hover {
+  .b0001containerlist:hover {
     background-color: #f9f9f9;
-    border-bottom-color: #1e3046;
+    border-bottom-color: #060933;
   }
 
-  .b0000container {
+  .b0001container {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
 
-  .b0000containerbody {
+  .b0001containerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -779,7 +833,7 @@
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
 
-  .b0000body {
+  .b0001body {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
@@ -787,31 +841,31 @@
     padding: 20px;
   }
 
-  .b0000containerlist>span {
+  .b0001containerlist>span {
     font-size: 24px;
-    color: #1e3046;
+    color: #060933;
   }
 
-  .b0000containerlist:hover {
+  .b0001containerlist:hover {
     background-color: rgba(46, 107, 255, 0.08);
-    border-bottom-color: #1e3046;
+    border-bottom-color: #060933;
   }
 
   @media screen and (max-width: 1024px) {
-    .b0000body {
+    .b0001body {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
 
-    .b0000containerbody {
+    .b0001containerbody {
       padding: 15px;
     }
   }
 
   
   @media (max-width: 768px) {
-    [class*="b0000"] {
+    [class*="b0001"] {
       max-width: 100%;
       box-sizing: border-box;
     }
@@ -819,8 +873,8 @@
 
   
   @media (prefers-reduced-motion: reduce) {
-    [class*="b0000"],
-    [class*="b0000"] * {
+    [class*="b0001"],
+    [class*="b0001"] * {
       animation: none !important;
       transition: none !important;
     }
@@ -851,13 +905,13 @@
       transform: scale(1);
     }
   }
-  .b0001-body {
+  .b0002-body {
     display: flex;
     align-items: center;
     justify-content: center;
     width: var(--max);
   }
-  .b0001-body-chile {
+  .b0002-body-chile {
     padding: 20px;
     display: flex;
     align-items: top;
@@ -865,10 +919,10 @@
     flex-direction: column;
     position: absolute;
   }
-  .b0001-body-chile > div {
+  .b0002-body-chile > div {
     width: 100% !important;
   }
-  .b00012 {
+  .b00022 {
     margin-top: 10px;
     margin-bottom: 10px;
     position: relative;
@@ -879,23 +933,23 @@
     overflow: hidden;
     cursor: pointer;
   }
-  .b0001 {
+  .b0002 {
     display: flex;
     flex-direction: column;
   }
-  .b0001 > svg {
+  .b0002 > svg {
     width: 100vw;
   }
-  .b0001botton {
+  .b0002botton {
     transform: scaleY(-1);
     margin-bottom: -1px;
   }
  
-  .b0001-svg {
+  .b0002-svg {
     fill: #fff;
   }
-  .b0001-bg {
-    background-image: url("/img/u7nton/map.png?v=ihgel") !important;
+  .b0002-bg {
+    background-image: url("/img/u7nton/map.png") !important;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -913,7 +967,7 @@
 
   
   @media (max-width: 768px) {
-    [class*="b0001"] {
+    [class*="b0002"] {
       max-width: 100%;
       box-sizing: border-box;
     }
@@ -921,8 +975,8 @@
 
   
   @media (prefers-reduced-motion: reduce) {
-    [class*="b0001"],
-    [class*="b0001"] * {
+    [class*="b0002"],
+    [class*="b0002"] * {
       animation: none !important;
       transition: none !important;
     }
@@ -995,7 +1049,7 @@
   
     .footer {
       position: relative;
-      background: #1e3046;
+      background: #060933;
       padding: 20px 50px;
       display: flex;
       justify-content: center;
@@ -1059,7 +1113,7 @@
       left: 0;
       width: 100%;
       height: 100px;
-      background-image: url("data:image/svg+xml,%3Csvg version='1.0' id='katman_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 640 65' style='enable-background:new 0 0 640 65;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%231e3046;%7D %3C/style%3E %3Cpath class='st0' d='M0,22.4C0,22.4,74.1,0,153,0c176.5,0,328.1,76.6,487,22.4V65H0V22.4z'/%3E%3C/svg%3E");
+      background-image: url("data:image/svg+xml,%3Csvg version='1.0' id='katman_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 640 65' style='enable-background:new 0 0 640 65;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23060933;%7D %3C/style%3E %3Cpath class='st0' d='M0,22.4C0,22.4,74.1,0,153,0c176.5,0,328.1,76.6,487,22.4V65H0V22.4z'/%3E%3C/svg%3E");
       background-size: 1000px 102px;
     }
   

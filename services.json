@@ -14,7 +14,10 @@
       "id": "wd5rk231mu",
       "externalUrl": "",
       "path": "teknikdestek",
-      "index": 0
+      "index": 0,
+      "url": "teknikdestek",
+      "icon": "doc",
+      "bgimg": "1.jpg"
     },
     {
       "name": {
@@ -30,7 +33,26 @@
       "id": "k8m2n4p6q9",
       "externalUrl": "",
       "path": "kurulumhizmetleri",
-      "index": 1
+      "index": 1,
+      "url": "kurulumhizmetleri",
+      "icon": "doc2",
+      "bgimg": "1.jpg"
     }
-  ]
+  ],
+  "name": "Hizmetler",
+  "path": "services",
+  "index": 3,
+  "desc": "Teknik destek ve kurulum hizmetleri",
+  "modulestatus": {
+    "detail": true,
+    "bgimg": true,
+    "body": true
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "svcpge"
+    ],
+    "footer": []
+  }
 }
