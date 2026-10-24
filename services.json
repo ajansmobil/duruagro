@@ -1,58 +1,68 @@
 {
-  "data": [
-    {
-      "name": {
-        "tr": "Teknik Destek",
-        "en": "Technical Support",
-        "ar": "الدعم الفني",
-        "de": "Technischer Support",
-        "ru": "Техническая поддержка",
-        "es": "Soporte técnico"
-      },
-      "status": "play",
-      "category": "Support",
-      "id": "wd5rk231mu",
-      "externalUrl": "",
-      "path": "teknikdestek",
-      "index": 0,
-      "url": "teknikdestek",
-      "icon": "doc",
-      "bgimg": "1.jpg"
-    },
-    {
-      "name": {
-        "tr": "Kurulum Hizmetleri",
-        "en": "Installation Services",
-        "ar": "خدمات التركيب",
-        "de": "Installationsdienste",
-        "ru": "Услуги по установке",
-        "es": "Servicios de instalación"
-      },
-      "status": "play",
-      "category": "Installation",
-      "id": "k8m2n4p6q9",
-      "externalUrl": "",
-      "path": "kurulumhizmetleri",
-      "index": 1,
-      "url": "kurulumhizmetleri",
-      "icon": "doc2",
-      "bgimg": "1.jpg"
-    }
-  ],
-  "name": "Hizmetler",
-  "path": "services",
-  "index": 3,
-  "desc": "Teknik destek ve kurulum hizmetleri",
-  "modulestatus": {
-    "detail": true,
-    "bgimg": true,
-    "body": true
-  },
-  "desing": {
-    "header": [],
+ "data": [
+  {
+   "name": {
+    "tr": "Teknik Destek",
+    "en": "Technical Support",
+    "ar": "الدعم الفني",
+    "de": "Technischer Support",
+    "ru": "Техническая поддержка",
+    "es": "Soporte técnico"
+   },
+   "status": "play",
+   "category": "Support",
+   "id": "wd5rk231mu",
+   "externalUrl": "",
+   "path": "teknikdestek",
+   "index": 0,
+   "url": "teknikdestek",
+   "icon": "doc",
+   "bgimg": "1.jpg",
+   "desing": {
     "body": [
-      "svcpge"
-    ],
-    "footer": []
+     "durg01"
+    ]
+   }
+  },
+  {
+   "name": {
+    "tr": "Kurulum Hizmetleri",
+    "en": "Installation Services",
+    "ar": "خدمات التركيب",
+    "de": "Installationsdienste",
+    "ru": "Услуги по установке",
+    "es": "Servicios de instalación"
+   },
+   "status": "play",
+   "category": "Installation",
+   "id": "k8m2n4p6q9",
+   "externalUrl": "",
+   "path": "kurulumhizmetleri",
+   "index": 1,
+   "url": "kurulumhizmetleri",
+   "icon": "doc2",
+   "bgimg": "1.jpg",
+   "desing": {
+    "body": [
+     "durg01"
+    ]
+   }
   }
+ ],
+ "name": "Hizmetler",
+ "path": "services",
+ "index": 3,
+ "desc": "Teknik destek ve kurulum hizmetleri",
+ "modulestatus": {
+  "detail": true,
+  "bgimg": true,
+  "body": true
+ },
+ "desing": {
+  "header": [],
+  "body": [
+   "durg01"
+  ],
+  "footer": []
+ }
 }
