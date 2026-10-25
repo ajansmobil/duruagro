@@ -1,7 +1,44 @@
 {
- "text": {
-  "tr": "<h2>Elevatör Model 1 — Hammadde Girişi Taşıma</h2><p class=\"lead\">Elevatör Model 1, hammaddeyi depodan hattın girişine (temizleme veya eleme ünitesine) taşıyan bantlı taşıma makinesidir. Gaziantep'teki üretim tesisimizde, gıda sınıfı bant ve paslanmaz çelik gövdeyle imal edilir.</p><h3>Ürün Tanıtımı</h3><p>Hat başındaki bu ünite; depodan gelen ürünün temizleme veya eleme noktasına stabil bir akışla iletilmesini sağlar. Bant genişliği, debi ve taşıma mesafesi işletme projeye göre belirlenir. Motor ve redüktör; uzun süreli, kesintisiz çalışma için seçilir.</p><h3>Özellikleri</h3><ul><li>Gıda sınıfı bant ve gıda temaslı yüzeylerde paslanmaz çelik.</li><li>Ayarlanabilir bant gerginliği ve sapma düzeltmesi.</li><li>Uzun süreli çalışma için endüstriyel motor ve redüktör.</li><li>Güvenlik devresi ve acil durdurma.</li></ul><h3>Kullanım Alanları</h3><ul><li>Fıstık, ceviz, badem ve çekirdek ürün hatları.</li><li>Depodan eleme veya temizleme ünitesine transfer.</li><li>Alt ve üst kot arasındaki yatay/şevli taşıma.</li></ul>",
-  "en": "<h2>Elevator Model 1 — Raw Material Intake Transport</h2><p class=\"lead\">Elevator Model 1 is a belt conveyor machine that carries raw material from the warehouse to the line's inlet (cleaning or screening unit). It is manufactured at our Gaziantep facility with a food-grade belt and a stainless steel body.</p><h3>Introduction</h3><p>This line-entry unit ensures that the incoming product is delivered to the cleaning or screening point with a stable flow. Belt width, flow rate and transport distance are sized per the facility project. The motor and gear reducer are selected for long-duration, uninterrupted operation.</p><h3>Features</h3><ul><li>Food-grade belt, stainless steel in food-contact areas.</li><li>Adjustable belt tension and misalignment correction.</li><li>Industrial motor and gear reducer for continuous duty.</li><li>Safety circuit and emergency stop.</li></ul><h3>Applications</h3><ul><li>Pistachio, walnut, almond and kernel product lines.</li><li>Transfer from warehouse to the screening or cleaning unit.</li><li>Horizontal/inclined transport between levels.</li></ul>",
-  "ar": "<h2>مصعد النموذج 1 — نقل المواد الخام عند الدخول</h2><p class=\"lead\">مصعد النموذج 1 جهاز نقل حزامي ينقل المواد الخام من المستودع إلى مدخل الخط (وحدة التنظيف أو الفرز). يُصنع في منشأتنا في غازي عنتاب بحزام مناسب للأغذية وهيكل من الفولاذ المقاوم للصدأ.</p><h3>عنوان المنتج</h3><p>هذه وحدة مدخل الخط تضمن تدفقًا مستقرًا للمادة القادمة من المستودع إلى نقطة التنظيف أو الفرز. تُحدد عرض الحزام والتدفق والمسافة وفق مشروع المنشأة. المحرك ومحول العزم مختاراتًا للعمل الطويل دون انقطاع.</p><h3>المميزات</h3><ul><li>حزام مناسب للأغذية وفولاذ مقاوم للصدأ في المناطق الملامسة للطعام.</li><li>شد حزام قابل للضبط وتصحيح الانحراف.</li><li>محرك وقاطع صناعي للعمل المستمر.</li><li>دائرة أمان وتوقف طارئ.</li></ul><h3>مجالات الاستخدام</h3><ul><li>خطوط الفستق واللوز والجوز ومنتجات النوى.</li><li>نقل من المستودع إلى وحدة الفرز أو التنظيف.</li><li>نقل أفقي أو مائل بين المستويات.</li></ul>"
- }
+  "name": {
+    "tr": "Elevatör 1",
+    "en": "Elevator 1",
+    "ar": "مصعد 1"
+  },
+  "id": "al4iwmdtey",
+  "index": 8,
+  "path": "elevator1",
+  "category": "",
+  "img": "caayx.jpg",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "url": "elevator-1",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Elevatör Model 1 — Hammadde Girişi Taşıma</h2><p class=\"lead\">Elevatör Model 1, hammaddeyi depodan hattın girişine (temizleme veya eleme ünitesine) taşıyan bantlı taşıma makinesidir. Gaziantep'teki üretim tesisimizde, gıda sınıfı bant ve paslanmaz çelik gövdeyle imal edilir.</p><h3>Ürün Tanıtımı</h3><p>Hat başındaki bu ünite; depodan gelen ürünün temizleme veya eleme noktasına stabil bir akışla iletilmesini sağlar. Bant genişliği, debi ve taşıma mesafesi işletme projeye göre belirlenir. Motor ve redüktör; uzun süreli, kesintisiz çalışma için seçilir.</p><h3>Özellikleri</h3><ul><li>Gıda sınıfı bant ve gıda temaslı yüzeylerde paslanmaz çelik.</li><li>Ayarlanabilir bant gerginliği ve sapma düzeltmesi.</li><li>Uzun süreli çalışma için endüstriyel motor ve redüktör.</li><li>Güvenlik devresi ve acil durdurma.</li></ul><h3>Kullanım Alanları</h3><ul><li>Fıstık, ceviz, badem ve çekirdek ürün hatları.</li><li>Depodan eleme veya temizleme ünitesine transfer.</li><li>Alt ve üst kot arasındaki yatay/şevli taşıma.</li></ul>",
+    "en": "<h2>Elevator Model 1 — Raw Material Intake Transport</h2><p class=\"lead\">Elevator Model 1 is a belt conveyor machine that carries raw material from the warehouse to the line's inlet (cleaning or screening unit). It is manufactured at our Gaziantep facility with a food-grade belt and a stainless steel body.</p><h3>Introduction</h3><p>This line-entry unit ensures that the incoming product is delivered to the cleaning or screening point with a stable flow. Belt width, flow rate and transport distance are sized per the facility project. The motor and gear reducer are selected for long-duration, uninterrupted operation.</p><h3>Features</h3><ul><li>Food-grade belt, stainless steel in food-contact areas.</li><li>Adjustable belt tension and misalignment correction.</li><li>Industrial motor and gear reducer for continuous duty.</li><li>Safety circuit and emergency stop.</li></ul><h3>Applications</h3><ul><li>Pistachio, walnut, almond and kernel product lines.</li><li>Transfer from warehouse to the screening or cleaning unit.</li><li>Horizontal/inclined transport between levels.</li></ul>",
+    "ar": "<h2>مصعد النموذج 1 — نقل المواد الخام عند الدخول</h2><p class=\"lead\">مصعد النموذج 1 جهاز نقل حزامي ينقل المواد الخام من المستودع إلى مدخل الخط (وحدة التنظيف أو الفرز). يُصنع في منشأتنا في غازي عنتاب بحزام مناسب للأغذية وهيكل من الفولاذ المقاوم للصدأ.</p><h3>عنوان المنتج</h3><p>هذه وحدة مدخل الخط تضمن تدفقًا مستقرًا للمادة القادمة من المستودع إلى نقطة التنظيف أو الفرز. تُحدد عرض الحزام والتدفق والمسافة وفق مشروع المنشأة. المحرك ومحول العزم مختاراتًا للعمل الطويل دون انقطاع.</p><h3>المميزات</h3><ul><li>حزام مناسب للأغذية وفولاذ مقاوم للصدأ في المناطق الملامسة للطعام.</li><li>شد حزام قابل للضبط وتصحيح الانحراف.</li><li>محرك وقاطع صناعي للعمل المستمر.</li><li>دائرة أمان وتوقف طارئ.</li></ul><h3>مجالات الاستخدام</h3><ul><li>خطوط الفستق واللوز والجوز ومنتجات النوى.</li><li>نقل من المستودع إلى وحدة الفرز أو التنظيف.</li><li>نقل أفقي أو مائل بين المستويات.</li></ul>"
+  },
+  "title": {
+    "tr": "Elevatör 1",
+    "en": "Elevator 1",
+    "ar": "مصعد 1"
+  },
+  "update": "2026-10-25T15:45:07.235Z",
+  "date": "2026-10-25T14:10:10.494Z",
+  "bg": "1.jpg"
 }

@@ -1,7 +1,45 @@
 {
- "text": {
-  "tr": "<h2>Ürünlerimiz — Gıda İşleme Hatları İçin Makina Grubu</h2><p class=\"lead\">Duru Agro Gıda Makinaları; fıstık, ceviz, badem ve çekirdek ürünlerinin işlenmesi için temizleme, kırma, kalibrasyon, kavurma, soğutma, ayırma ve taşıma gruplarında makina üretir. Aşağıdaki kartlarda; hat basamaklarına göre ürünlerimizi bulabilirsiniz.</p><h3>Ne Sunuyoruz</h3><ul><li>Temizleme ve ayıklama: 4 katlı eleme, hafif tane ayıklama, taş ayırma.</li><li>Kırma ve kalibrasyon: fıstık kırma, iç fıstık kalibrasyon eleği.</li><li>Kavurma: döner kavurma makinesi, paletli Kavurma fırını.</li><li>Soğutma: savurma makinesi.</li><li>Taşıma: elevatör serisi (model 1–7).</li></ul><h3>Hat Tasarımına Yaklaşım</h3><p>Her üretim hattı; hammadde, kapasite ve alan ile farklılık gösterir. Ürün sayfalarımızda tek makine tanımlamayı sunmuyoruz; hattın basamaklarını birlikte planlayıp, ölçülerini ve debilerini belirledikten sonra makina kombinasyonunu seçiyoruz. Ayrıntılı bilgi ve keşif talebi için 0 530 233 66 72.</p>",
-  "en": "<h2>Our Products — Machine Group for Food Processing Lines</h2><p class=\"lead\">Duru Agro Food Machinery manufactures machines for cleaning, cracking, calibrating, roasting, cooling, separating and conveying of pistachio, walnut, almond and kernel products. In the cards below, you can find our products according to the line stages.</p><h3>What We Offer</h3><ul><li>Cleaning and separation: 4-deck screen, light kernel separator, stone separator.</li><li>Cracking and calibration: pistachio cracker, kernel calibrating screen.</li><li>Roasting: drum roaster, pallet roasting oven.</li><li>Cooling: cooling mixer.</li><li>Conveying: elevator series (models 1–7).</li></ul><h3>Approach to Line Design</h3><p>Every production line is different according to raw material, capacity and space. Our product pages provide a single-machine description; we plan the line stages together, determine their dimensions and flows, and then select the machine combination. For details and a survey request, call 0 530 233 66 72.</p>",
-  "ar": "<h2>منتجاتنا — مجموعة معدات لخطوط معالجة الأغذية</h2><p class=\"lead\">دورو أغرو تنتج معدات التنظيف والكسر والمعايرة والتحميص والتبريد والفصل والنقل لمعالجة الفستق والجوز واللوز ومنتجات النوى. في البطاقات أدناه ستجدون منتجاتنا وفق مراحل الخط.</p><h3>ما نقدمه</h3><ul><li>التنظيف والفصل: مصفاة رباعية، جهاز إزالة النوى الخفيفة، جهاز إزالة الحجارة.</li><li>الكسر والمعايرة: جهاز كسر الفستق، مصفاة معايرة النوى.</li><li>التحميص: جهاز التحميص الدوّار، فرن التحميص بالرفوف.</li><li>التبريد: جهاز التبريد والخلط.</li><li>النقل: سلسلة المصاعد (النموذج 1–7).</li></ul><h3>منهجية تصميم الخط</h3><p>كل خط إنتاج مختلف حسب المادة الخام والإنتاجية والمساحة. صفحات المنتجات تقدم وصف جهاز واحد؛ نخطط المراحل معا، ونحدد أبعادها وتدَفُّقها، ثم نختار تشكيلة الأجهزة. للتفاصيل وطلب الاستقصاء اتصلوا على 0 530 233 66 72.</p>"
- }
+  "name": {
+    "tr": "Ürünlerimiz",
+    "en": "Our Products",
+    "ar": "منتجاتنا"
+  },
+  "id": "cu4iugms2p",
+  "index": 1,
+  "path": "urunlerimiz",
+  "category": "",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "durg01",
+      "nwauty"
+    ],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Ürünlerimiz — Gıda İşleme Hatları İçin Makina Grubu</h2><p class=\"lead\">Duru Agro Gıda Makinaları; fıstık, ceviz, badem ve çekirdek ürünlerinin işlenmesi için temizleme, kırma, kalibrasyon, kavurma, soğutma, ayırma ve taşıma gruplarında makina üretir. Aşağıdaki kartlarda; hat basamaklarına göre ürünlerimizi bulabilirsiniz.</p><h3>Ne Sunuyoruz</h3><ul><li>Temizleme ve ayıklama: 4 katlı eleme, hafif tane ayıklama, taş ayırma.</li><li>Kırma ve kalibrasyon: fıstık kırma, iç fıstık kalibrasyon eleği.</li><li>Kavurma: döner kavurma makinesi, paletli Kavurma fırını.</li><li>Soğutma: savurma makinesi.</li><li>Taşıma: elevatör serisi (model 1–7).</li></ul><h3>Hat Tasarımına Yaklaşım</h3><p>Her üretim hattı; hammadde, kapasite ve alan ile farklılık gösterir. Ürün sayfalarımızda tek makine tanımlamayı sunmuyoruz; hattın basamaklarını birlikte planlayıp, ölçülerini ve debilerini belirledikten sonra makina kombinasyonunu seçiyoruz. Ayrıntılı bilgi ve keşif talebi için 0 530 233 66 72.</p>",
+    "en": "<h2>Our Products — Machine Group for Food Processing Lines</h2><p class=\"lead\">Duru Agro Food Machinery manufactures machines for cleaning, cracking, calibrating, roasting, cooling, separating and conveying of pistachio, walnut, almond and kernel products. In the cards below, you can find our products according to the line stages.</p><h3>What We Offer</h3><ul><li>Cleaning and separation: 4-deck screen, light kernel separator, stone separator.</li><li>Cracking and calibration: pistachio cracker, kernel calibrating screen.</li><li>Roasting: drum roaster, pallet roasting oven.</li><li>Cooling: cooling mixer.</li><li>Conveying: elevator series (models 1–7).</li></ul><h3>Approach to Line Design</h3><p>Every production line is different according to raw material, capacity and space. Our product pages provide a single-machine description; we plan the line stages together, determine their dimensions and flows, and then select the machine combination. For details and a survey request, call 0 530 233 66 72.</p>",
+    "ar": "<h2>منتجاتنا — مجموعة معدات لخطوط معالجة الأغذية</h2><p class=\"lead\">دورو أغرو تنتج معدات التنظيف والكسر والمعايرة والتحميص والتبريد والفصل والنقل لمعالجة الفستق والجوز واللوز ومنتجات النوى. في البطاقات أدناه ستجدون منتجاتنا وفق مراحل الخط.</p><h3>ما نقدمه</h3><ul><li>التنظيف والفصل: مصفاة رباعية، جهاز إزالة النوى الخفيفة، جهاز إزالة الحجارة.</li><li>الكسر والمعايرة: جهاز كسر الفستق، مصفاة معايرة النوى.</li><li>التحميص: جهاز التحميص الدوّار، فرن التحميص بالرفوف.</li><li>التبريد: جهاز التبريد والخلط.</li><li>النقل: سلسلة المصاعد (النموذج 1–7).</li></ul><h3>منهجية تصميم الخط</h3><p>كل خط إنتاج مختلف حسب المادة الخام والإنتاجية والمساحة. صفحات المنتجات تقدم وصف جهاز واحد؛ نخطط المراحل معا، ونحدد أبعادها وتدَفُّقها، ثم نختار تشكيلة الأجهزة. للتفاصيل وطلب الاستقصاء اتصلوا على 0 530 233 66 72.</p>"
+  },
+  "title": {
+    "tr": "Ürünlerimiz",
+    "en": "Our Products",
+    "ar": "منتجاتنا"
+  },
+  "update": "2026-10-25T15:45:07.246Z",
+  "date": "2026-10-25T14:10:09.979Z",
+  "bg": "1.jpg"
 }

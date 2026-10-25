@@ -1,7 +1,42 @@
 {
- "text": {
-  "tr": "<h2>Yasal Uyarı</h2><p class=\"lead\">Bu sitede yer alan ürün ve firma bilgileri tanıtım amaçlıdır; teknik detaylar, proje bazında değişebilir. Bu metin, sitenin kullanım koşullarını ve hukuki sınırlarını belirtir.</p><h3>Tanıtım Niteliği</h3><p>Ürün ölçüleri, kapasitesi, motor gücü ve aksesuar seçenekleri; işletmenin hammadde, alan ve hat yapısına göre belirlenir. Teklif aşamasında netleşen teknik şartname, teslimatın esas alınır. Site içeriği teklif niteliği taşımaz.</p><h3>Fikri Mülkiyet</h3><p>Site üzerindeki markalar, ürün adları, görseller ve teknik dokümanlar Duru Agro Gıda Makinaları'na aittir. İzinsiz çoğaltma, yayma ve ticari kullanım yapılamaz.</p><h3>Bağlantılar</h3><p>Site üzerinden üçüncü taraf sitelere açılan bağlantılar; bu sitenin sorumluluğu dışındadır. Bağlantı hedeflerinin içeriği kendi sitelerine aittir.</p><h3>Yetkili Mahkeme</h3><p>Taraflar arsında doğan uyuşmazlıklarda, Gaziantep İl ve İlçe Mahkemeleri ve İcra Daireleri yetkilidir.</p>",
-  "en": "<h2>Legal Notice</h2><p class=\"lead\">The product and company information on this site is for presentation purposes; technical details may vary from project to project. This text defines the conditions of use of the site and its legal limits.</p><h3>Presentation Nature</h3><p>Product dimensions, capacity, motor power and accessory options are determined according to the facility's raw material, space and line structure. The technical specification settled at the quote stage is the basis of delivery. The site content does not constitute an offer.</p><h3>Intellectual Property</h3><p>Trademarks, product names, images and technical documents on the site belong to Duru Agro Food Machinery. They may not be reproduced, distributed or used commercially without permission.</p><h3>Links</h3><p>Links to third-party sites from this site are outside our responsibility. The content of the link targets belongs to their own sites.</p><h3>Competent Court</h3><p>In disputes arising between the parties, the Courts of Gaziantep province and district and the Enforcement Offices are competent.</p>",
-  "ar": "<h2>تنبيه قانوني</h2><p class=\"lead\">معلومات المنتجات والشركة على هذا الموقع للاستعراض؛ قد تختلف التفاصيل التقنية من مشروع لآخر. هذا النص يحدد شروط استخدام الموقع وحدوده القانونية.</p><h3>طابع التعريف</h3><p>أبعاد المنتجات وإنتاجيتها وقوة المحرك وخيارات الملحقات تُحدد وفق مادة المنشأة الخام ومساحتها وهياكل خطها. المواصفات التقنية المتفق عليها لدى العرض أساس التسليم. محتوى الموقع لا يشكل عرضًا.</p><h3>الملكية الفكرية</h3><p>العلامات التجارية وأسماء المنتجات والصور والوثائق التقنية على الموقع ملك لدورو أغرو. لا يجوز نسخها أو توزيعها أو استخدامها تجاريًا دون إذن.</p><h3>الروابط</h3><p>الروابط إلى مواقع خارجية خارج مسؤوليتنا؛ ومحتوى المواقع المستهدفة يعود إليها.</p><h3>المحكمة المختصة</h3><p>في حال نشوب نزاع، تكون محاكم محافظة غازي عنتاب ومحافظاتها ودوائر التنفيذ هي المختصة.</p>"
- }
+  "name": {
+    "tr": "Yasal Uyarı",
+    "en": "Legal warning",
+    "ar": "تحذير قانوني"
+  },
+  "id": "yasaluyari",
+  "index": 8,
+  "path": "yasal-uyari",
+  "category": "kurumsal",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Yasal Uyarı</h2><p class=\"lead\">Bu sitede yer alan ürün ve firma bilgileri tanıtım amaçlıdır; teknik detaylar, proje bazında değişebilir. Bu metin, sitenin kullanım koşullarını ve hukuki sınırlarını belirtir.</p><h3>Tanıtım Niteliği</h3><p>Ürün ölçüleri, kapasitesi, motor gücü ve aksesuar seçenekleri; işletmenin hammadde, alan ve hat yapısına göre belirlenir. Teklif aşamasında netleşen teknik şartname, teslimatın esas alınır. Site içeriği teklif niteliği taşımaz.</p><h3>Fikri Mülkiyet</h3><p>Site üzerindeki markalar, ürün adları, görseller ve teknik dokümanlar Duru Agro Gıda Makinaları'na aittir. İzinsiz çoğaltma, yayma ve ticari kullanım yapılamaz.</p><h3>Bağlantılar</h3><p>Site üzerinden üçüncü taraf sitelere açılan bağlantılar; bu sitenin sorumluluğu dışındadır. Bağlantı hedeflerinin içeriği kendi sitelerine aittir.</p><h3>Yetkili Mahkeme</h3><p>Taraflar arsında doğan uyuşmazlıklarda, Gaziantep İl ve İlçe Mahkemeleri ve İcra Daireleri yetkilidir.</p>",
+    "en": "<h2>Legal Notice</h2><p class=\"lead\">The product and company information on this site is for presentation purposes; technical details may vary from project to project. This text defines the conditions of use of the site and its legal limits.</p><h3>Presentation Nature</h3><p>Product dimensions, capacity, motor power and accessory options are determined according to the facility's raw material, space and line structure. The technical specification settled at the quote stage is the basis of delivery. The site content does not constitute an offer.</p><h3>Intellectual Property</h3><p>Trademarks, product names, images and technical documents on the site belong to Duru Agro Food Machinery. They may not be reproduced, distributed or used commercially without permission.</p><h3>Links</h3><p>Links to third-party sites from this site are outside our responsibility. The content of the link targets belongs to their own sites.</p><h3>Competent Court</h3><p>In disputes arising between the parties, the Courts of Gaziantep province and district and the Enforcement Offices are competent.</p>",
+    "ar": "<h2>تنبيه قانوني</h2><p class=\"lead\">معلومات المنتجات والشركة على هذا الموقع للاستعراض؛ قد تختلف التفاصيل التقنية من مشروع لآخر. هذا النص يحدد شروط استخدام الموقع وحدوده القانونية.</p><h3>طابع التعريف</h3><p>أبعاد المنتجات وإنتاجيتها وقوة المحرك وخيارات الملحقات تُحدد وفق مادة المنشأة الخام ومساحتها وهياكل خطها. المواصفات التقنية المتفق عليها لدى العرض أساس التسليم. محتوى الموقع لا يشكل عرضًا.</p><h3>الملكية الفكرية</h3><p>العلامات التجارية وأسماء المنتجات والصور والوثائق التقنية على الموقع ملك لدورو أغرو. لا يجوز نسخها أو توزيعها أو استخدامها تجاريًا دون إذن.</p><h3>الروابط</h3><p>الروابط إلى مواقع خارجية خارج مسؤوليتنا؛ ومحتوى المواقع المستهدفة يعود إليها.</p><h3>المحكمة المختصة</h3><p>في حال نشوب نزاع، تكون محاكم محافظة غازي عنتاب ومحافظاتها ودوائر التنفيذ هي المختصة.</p>"
+  },
+  "title": {
+    "tr": "Yasal Uyarı",
+    "en": "Legal warning",
+    "ar": "تحذير قانوني"
+  },
+  "update": "2026-10-25T15:45:07.313Z",
+  "date": "2026-10-25T14:10:10.282Z",
+  "bg": "1.jpg"
 }

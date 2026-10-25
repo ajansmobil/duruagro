@@ -1,7 +1,44 @@
 {
- "text": {
-  "tr": "<h2>Elevatör Model 2 — Hat İkinci Nakil Noktası</h2><p class=\"lead\">Elevatör Model 2, hat içi ikinci taşıma noktası için tasarlanmış bantlı taşıma makinesidir. Ürünü, eleme veya temizleme grubundan bir sonraki üniteye (kavurma ya da soğutma noktasına) istikrarlı debiyle aktarır.</p><h3>Ürün Tanıtımı</h3><p>Hat içi konumu; bir önceki ünitenin çıkış noktasıyla sonraki ünitenin giriş noktasını birbirine bağlar. Bant hızı, debi ve kot farkı projeye göre ayarlanır. Bant ucunda dökülme bandı ve toz sızdırmayan kapak önerilir.</p><h3>Özellikleri</h3><ul><li>Gıda sınıfı bant, paslanmaz çelik gövde.</li><li>Vitesli motor seçeneği ile debi ayarı.</li><li>Yıpranan bant ve rulmanlarda kolay erişim.</li><li>Güvenlik devresi, acil durdurma.</li></ul><h3>Kullanım Alanları</h3><ul><li>Eleme / temizleme çıkışından kavurma ünitesine transfer.</li><li>Soğutma noktasına ürün beslemesi.</li><li>Çeşitli gıda hatlarında ara taşıma.</li></ul>",
-  "en": "<h2>Elevator Model 2 — Second Transfer Point in the Line</h2><p class=\"lead\">Elevator Model 2 is a belt conveyor machine designed for the second transfer point in the line. It transfers the product to the next unit (the roasting or cooling point) with a stable flow.</p><h3>Introduction</h3><p>Its in-line position connects the outlet of the previous unit to the inlet of the next unit. Belt speed, flow and level difference are set per project. A spill tray and a dust-tight cover are recommended at the belt end.</p><h3>Features</h3><ul><li>Food-grade belt, stainless steel body.</li><li>Gear-motor option for flow adjustment.</li><li>Easy access to wear belts and bearings.</li><li>Safety circuit, emergency stop.</li></ul><h3>Applications</h3><ul><li>Transfer from the screening/cleaning outlet to the roasting unit.</li><li>Product feeding to the cooling point.</li><li>Intermediate transport in various food lines.</li></ul>",
-  "ar": "<h2>مصعد النموذج 2 — نقطة النقل الثانية في الخط</h2><p class=\"lead\">مصعد النموذج 2 جهاز نقل حزامي مصمَّم لنقطة النقل الثانية في الخط. ينقل المنتج إلى الوحدة التالية (نقطة التحميص أو التبريد) بتدفق مستقر.</p><h3>عنوان المنتج</h3><p>موقعه داخل الخط يربط مخرج الوحدة السابقة بمدخل الوحدة اللاحقة. يُضبط سرعة الحزام والتدفق والفارق الارتفاعي وفق المشروع. يُنصح بصينية انسكاب وغطاء محكم ضد الغبار في نهاية الحزام.</p><h3>المميزات</h3><ul><li>حزام مناسب للأغذية وهيكل من الفولاذ المقاوم للصدأ.</li><li>خيار محرك بقواطع لضبط التدفق.</li><li>وصول سهل للأحزمة والمحامل القابلة للتهلك.</li><li>دائرة أمان وتوقف طارئ.</li></ul><h3>مجالات الاستخدام</h3><ul><li>نقل من مخرج الفرز أو التنظيف إلى وحدة التحميص.</li><li>تغذية المنتجات إلى نقطة التبريد.</li><li>نقل وسيط في خطوط الأغذية المختلفة.</li></ul>"
- }
+  "name": {
+    "tr": "Elevatör 2",
+    "en": "Elevator 2",
+    "ar": "مصعد 2"
+  },
+  "id": "kmnvuyqxp0",
+  "index": 9,
+  "path": "elevator2",
+  "category": "",
+  "img": "q6in3.jpg",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "url": "elevator-2",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Elevatör Model 2 — Hat İkinci Nakil Noktası</h2><p class=\"lead\">Elevatör Model 2, hat içi ikinci taşıma noktası için tasarlanmış bantlı taşıma makinesidir. Ürünü, eleme veya temizleme grubundan bir sonraki üniteye (kavurma ya da soğutma noktasına) istikrarlı debiyle aktarır.</p><h3>Ürün Tanıtımı</h3><p>Hat içi konumu; bir önceki ünitenin çıkış noktasıyla sonraki ünitenin giriş noktasını birbirine bağlar. Bant hızı, debi ve kot farkı projeye göre ayarlanır. Bant ucunda dökülme bandı ve toz sızdırmayan kapak önerilir.</p><h3>Özellikleri</h3><ul><li>Gıda sınıfı bant, paslanmaz çelik gövde.</li><li>Vitesli motor seçeneği ile debi ayarı.</li><li>Yıpranan bant ve rulmanlarda kolay erişim.</li><li>Güvenlik devresi, acil durdurma.</li></ul><h3>Kullanım Alanları</h3><ul><li>Eleme / temizleme çıkışından kavurma ünitesine transfer.</li><li>Soğutma noktasına ürün beslemesi.</li><li>Çeşitli gıda hatlarında ara taşıma.</li></ul>",
+    "en": "<h2>Elevator Model 2 — Second Transfer Point in the Line</h2><p class=\"lead\">Elevator Model 2 is a belt conveyor machine designed for the second transfer point in the line. It transfers the product to the next unit (the roasting or cooling point) with a stable flow.</p><h3>Introduction</h3><p>Its in-line position connects the outlet of the previous unit to the inlet of the next unit. Belt speed, flow and level difference are set per project. A spill tray and a dust-tight cover are recommended at the belt end.</p><h3>Features</h3><ul><li>Food-grade belt, stainless steel body.</li><li>Gear-motor option for flow adjustment.</li><li>Easy access to wear belts and bearings.</li><li>Safety circuit, emergency stop.</li></ul><h3>Applications</h3><ul><li>Transfer from the screening/cleaning outlet to the roasting unit.</li><li>Product feeding to the cooling point.</li><li>Intermediate transport in various food lines.</li></ul>",
+    "ar": "<h2>مصعد النموذج 2 — نقطة النقل الثانية في الخط</h2><p class=\"lead\">مصعد النموذج 2 جهاز نقل حزامي مصمَّم لنقطة النقل الثانية في الخط. ينقل المنتج إلى الوحدة التالية (نقطة التحميص أو التبريد) بتدفق مستقر.</p><h3>عنوان المنتج</h3><p>موقعه داخل الخط يربط مخرج الوحدة السابقة بمدخل الوحدة اللاحقة. يُضبط سرعة الحزام والتدفق والفارق الارتفاعي وفق المشروع. يُنصح بصينية انسكاب وغطاء محكم ضد الغبار في نهاية الحزام.</p><h3>المميزات</h3><ul><li>حزام مناسب للأغذية وهيكل من الفولاذ المقاوم للصدأ.</li><li>خيار محرك بقواطع لضبط التدفق.</li><li>وصول سهل للأحزمة والمحامل القابلة للتهلك.</li><li>دائرة أمان وتوقف طارئ.</li></ul><h3>مجالات الاستخدام</h3><ul><li>نقل من مخرج الفرز أو التنظيف إلى وحدة التحميص.</li><li>تغذية المنتجات إلى نقطة التبريد.</li><li>نقل وسيط في خطوط الأغذية المختلفة.</li></ul>"
+  },
+  "title": {
+    "tr": "Elevatör 2",
+    "en": "Elevator 2",
+    "ar": "مصعد 2"
+  },
+  "update": "2026-10-25T15:45:07.278Z",
+  "date": "2026-10-25T14:10:10.499Z",
+  "bg": "1.jpg"
 }

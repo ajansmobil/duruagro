@@ -1,7 +1,42 @@
 {
- "text": {
-  "tr": "<h2>Gizlilik Politikası</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak; telefon, e-posta ve web sitemiz üzerinden paylaşılan her bilginin gizliliğine değer veriyoruz. Bu politika, hangi verilerin nasıl kullanıldığına dair şeffaf bilgi verir.</p><h3>Ni Toplarız</h3><ul><li>İletişim formları: Ad, şirket, telefon, e-posta.</li><li>Teklif talebi: Hammadde, kapasite ve hat bilgileri.</li><li>Servis kaydı: Makina kimliği, arıza notu, servis tarihi.</li></ul><h3>Ni Kullanırız</h3><ul><li>Teklif hazırlama ve teklif izleme.</li><li>Satış sonrası teknik destek ve servis planlaması.</li><li>Yasal ve ticari yükümlülüklerin yerine getirilmesi.</li></ul><h3>Bağışlanırcasına</h3><p>Verileriniz, üretim ve teslimat için zorunlu olduğunda tedarikçilerimizle paylaşılmaz; yalnızca hizmetin sunulması için gerekli kitleyle paylaşılır. Dış aktarım yalnızca yasal zorunluluk halinde yapılır.</p><h3>Koruması</h3><p>Erişim yetkili personel ile kısıtlı; veriler dijital ortamda güvenli sistemlerde saklanır. Yedekleme yalnızca operasyonel ihtiyaç için yapılır.</p><h3>Haklarınız</h3><p>KVKK kapsamında verilerinize erişim, düzeltme, silme ve itiraz haklarına sahipsiniz. Bu politika metinindeki 0 530 233 66 72 veya info@duruagro.com üzerinden taleplerinize yanıt verilir.</p>",
-  "en": "<h2>Privacy Policy</h2><p class=\"lead\">At Duru Agro Food Machinery, we value the privacy of all information shared with us via phone, e-mail and our website. This policy gives a transparent picture of which data is used and how.</p><h3>What We Collect</h3><ul><li>Contact form: name, company, phone, e-mail.</li><li>Quote request: raw material, capacity and line information.</li><li>Service records: machine identity, fault notes, service date.</li></ul><h3>How We Use It</h3><ul><li>Preparing and following up on quotes.</li><li>After-sales technical support and service planning.</li><li>Fulfilling legal and commercial obligations.</li></ul><h3>Disclosure</h3><p>Your data is not shared with our suppliers for production or delivery; it is shared only with the parties necessary to provide the service. External transfer is made only when legally required.</p><h3>Protection</h3><p>Access is restricted to authorized personnel; data is stored in secure digital systems. Backups are made only for operational need.</p><h3>Your Rights</h3><p>Under KVKK you have the right to access, correct, delete and object to your data. Requests are handled via 0 530 233 66 72 or info@duruagro.com stated in this policy.</p>",
-  "ar": "<h2>سياسة الخصوصية</h2><p class=\"lead\">في دورو أغرو، نكن بالخصوصية لكل معلومة تُشارك معنا عبر الهاتف أو البريد أو موقعنا. هذه السياسة توضح بشفافية أي بيانات تُستخدم وكيف.</p><h3>ما الذي نجمع</h3><ul><li>نموذج التواصل: الاسم، المنشأة، الهاتف، البريد.</li><li>طلب عرض سعر: تفاصيل المادة الخام والإنتاجية والخط.</li><li>سجل الصيانة: هوية الجهاز وملاحظات الخلل وتاريخ الخدمة.</li></ul><h3>كيف نستخدمها</h3><ul><li>إعداد عروض الأسعار ومتابعتها.</li><li>الدعم التقني ما بعد البيع وخدمة الصيانة.</li><li>الالتزام بالواجبات القانونية والتجارية.</li></ul><h3>الإفصاح</h3><p>لا تُشارك بياناتكم مع موردينا في الإنتاج أو التسليم؛ بل فقط مع من يلزم لتقديم الخدمة. ولا يتم نقل البيانات خارجيًا إلا عند وجود إلزام قانوني.</p><h3>الحماية</h3><p>الوصول مقصور على الموظفين المخولين؛ وتُخزن البيانات في أنظمة رقمية آمنة، والنسخ الاحتياطة فقط للحاجة التشغيلية.</p><h3>حقوقكم</h3><p>ضمن نطاق KVKK، لكم حقوق الوصول والتصحيح والحظر والمعارضة. تُعالج الطلبات عبر الهاتف 0 530 233 66 72 أو البريد info@duruagro.com المذكور في هذه السياسة.</p>"
- }
+  "name": {
+    "tr": "Gizlilik Politikası",
+    "en": "Privacy Policy",
+    "ar": "سياسة الخصوصية"
+  },
+  "id": "gizlilikpolitikasi",
+  "index": 5,
+  "path": "gizlilik-politikasi",
+  "category": "kurumsal",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Gizlilik Politikası</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak; telefon, e-posta ve web sitemiz üzerinden paylaşılan her bilginin gizliliğine değer veriyoruz. Bu politika, hangi verilerin nasıl kullanıldığına dair şeffaf bilgi verir.</p><h3>Ni Toplarız</h3><ul><li>İletişim formları: Ad, şirket, telefon, e-posta.</li><li>Teklif talebi: Hammadde, kapasite ve hat bilgileri.</li><li>Servis kaydı: Makina kimliği, arıza notu, servis tarihi.</li></ul><h3>Ni Kullanırız</h3><ul><li>Teklif hazırlama ve teklif izleme.</li><li>Satış sonrası teknik destek ve servis planlaması.</li><li>Yasal ve ticari yükümlülüklerin yerine getirilmesi.</li></ul><h3>Bağışlanırcasına</h3><p>Verileriniz, üretim ve teslimat için zorunlu olduğunda tedarikçilerimizle paylaşılmaz; yalnızca hizmetin sunulması için gerekli kitleyle paylaşılır. Dış aktarım yalnızca yasal zorunluluk halinde yapılır.</p><h3>Koruması</h3><p>Erişim yetkili personel ile kısıtlı; veriler dijital ortamda güvenli sistemlerde saklanır. Yedekleme yalnızca operasyonel ihtiyaç için yapılır.</p><h3>Haklarınız</h3><p>KVKK kapsamında verilerinize erişim, düzeltme, silme ve itiraz haklarına sahipsiniz. Bu politika metinindeki 0 530 233 66 72 veya info@duruagro.com üzerinden taleplerinize yanıt verilir.</p>",
+    "en": "<h2>Privacy Policy</h2><p class=\"lead\">At Duru Agro Food Machinery, we value the privacy of all information shared with us via phone, e-mail and our website. This policy gives a transparent picture of which data is used and how.</p><h3>What We Collect</h3><ul><li>Contact form: name, company, phone, e-mail.</li><li>Quote request: raw material, capacity and line information.</li><li>Service records: machine identity, fault notes, service date.</li></ul><h3>How We Use It</h3><ul><li>Preparing and following up on quotes.</li><li>After-sales technical support and service planning.</li><li>Fulfilling legal and commercial obligations.</li></ul><h3>Disclosure</h3><p>Your data is not shared with our suppliers for production or delivery; it is shared only with the parties necessary to provide the service. External transfer is made only when legally required.</p><h3>Protection</h3><p>Access is restricted to authorized personnel; data is stored in secure digital systems. Backups are made only for operational need.</p><h3>Your Rights</h3><p>Under KVKK you have the right to access, correct, delete and object to your data. Requests are handled via 0 530 233 66 72 or info@duruagro.com stated in this policy.</p>",
+    "ar": "<h2>سياسة الخصوصية</h2><p class=\"lead\">في دورو أغرو، نكن بالخصوصية لكل معلومة تُشارك معنا عبر الهاتف أو البريد أو موقعنا. هذه السياسة توضح بشفافية أي بيانات تُستخدم وكيف.</p><h3>ما الذي نجمع</h3><ul><li>نموذج التواصل: الاسم، المنشأة، الهاتف، البريد.</li><li>طلب عرض سعر: تفاصيل المادة الخام والإنتاجية والخط.</li><li>سجل الصيانة: هوية الجهاز وملاحظات الخلل وتاريخ الخدمة.</li></ul><h3>كيف نستخدمها</h3><ul><li>إعداد عروض الأسعار ومتابعتها.</li><li>الدعم التقني ما بعد البيع وخدمة الصيانة.</li><li>الالتزام بالواجبات القانونية والتجارية.</li></ul><h3>الإفصاح</h3><p>لا تُشارك بياناتكم مع موردينا في الإنتاج أو التسليم؛ بل فقط مع من يلزم لتقديم الخدمة. ولا يتم نقل البيانات خارجيًا إلا عند وجود إلزام قانوني.</p><h3>الحماية</h3><p>الوصول مقصور على الموظفين المخولين؛ وتُخزن البيانات في أنظمة رقمية آمنة، والنسخ الاحتياطة فقط للحاجة التشغيلية.</p><h3>حقوقكم</h3><p>ضمن نطاق KVKK، لكم حقوق الوصول والتصحيح والحظر والمعارضة. تُعالج الطلبات عبر الهاتف 0 530 233 66 72 أو البريد info@duruagro.com المذكور في هذه السياسة.</p>"
+  },
+  "title": {
+    "tr": "Gizlilik Politikası",
+    "en": "Privacy Policy",
+    "ar": "سياسة الخصوصية"
+  },
+  "update": "2026-10-25T15:45:07.255Z",
+  "date": "2026-10-25T14:10:10.226Z",
+  "bg": "1.jpg"
 }

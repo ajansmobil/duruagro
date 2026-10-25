@@ -1,7 +1,42 @@
 {
- "text": {
-  "tr": "<h2>Vizyonumuz</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak vizyonumuz; gıda işleme makinelerinde Türkiye'den dünyaya uzanan, kalitesi ve sonrası hizmetiyle tanınan bir marka olmaktır.</p><h3>Tarıf</h3><p>Fıstık, çekirdek ve kuru meyve işleme hatlarında; yerli işletmelerin ve ihracat pazarlarının tercih ettiği, tek elden hat çözümleri sunan bir makinici marka olmak. Ürün gamımızı hat entegrasyonuna uygun şekilde genişletmek ve kalite ile sonrası standartla her teslimatta aynı deneyimi sunmak.</p><h3>Öncelik</h3><ul><li>Gıda güvenliği: Her üründe değişmez öncelik.</li><li>Dayanıklılık: Yıllarca sorunsuz mekanik performans.</li><li>İş letmeye özel üretim: Standart ölçünün ötesinde çözümler.</li><li>Küresel erişim: Gaziantep'ten başlayan, uluslararası pazarlara açılan bir üretim ağı.</li></ul><h3>Nereye Gidiyoruz</h3><p>Teslim attığımız her hat için geri bildirim, verim ölçümü ve süreç iyileştirmesi yapar; bu bilgiyi yeni jenerasyon ürünlerde değerlendiririz. Hedefimiz, gıda işleme makineleri denince akla gelen isimlerden biri olmaktır.</p>",
-  "en": "<h2>Our Vision</h2><p class=\"lead\">Our vision as Duru Agro Food Machinery is to be a brand recognized for quality and after-sales service, expanding from Turkey to the world in food processing machinery.</p><h3>Definition</h3><p>To be a machine maker brand preferred by domestic businesses and export markets in pistachio, kernel and dried-fruit processing lines, offering one-stop line solutions. We grow our product range in line with line integration and deliver the same experience at every delivery with quality and after-sales standards.</p><h3>Priorities</h3><ul><li>Food safety: an unchanging priority in every product.</li><li>Durability: years of trouble-free mechanical performance.</li><li>Production per facility: solutions beyond the standard size.</li><li>Global reach: a production network starting in Gaziantep and opening to international markets.</li></ul><h3>Where We Are Heading</h3><p>For every line we deliver, we evaluate feedback, efficiency measurement and process improvement, and apply that knowledge in the next generation of products. Our goal is to be one of the first names that comes to mind for food processing machinery.</p>",
-  "ar": "<h2>رؤيتنا</h2><p class=\"lead\">رؤيتنا في دورو أغرو: أن نصنع علامة معروفة بالكفاءة وخدمة ما بعد البيع، تمتد من تركيا إلى العالم في معدات معالجة الأغذية.</p><h3>التعريف</h3><p>أن نكون علامة مجهزة مفضلة لدى المنشآت المحلية وأسواق التصدير في خطوط الفستق والنوى والفواكه المجففة، نوفر حلول خطوط متكاملة من مصدر واحد. نميّع نطاق منتجاتنا بما يناسب تكامل الخط، ونُسلم التجربة نفسها في كل تسليم بالكفاءة وخدمة ما بعد البيع.</p><h3>أولوياتنا</h3><ul><li>سلامة الغذاء: أولوية ثابتة في كل منتج.</li><li>المتانة: أداء ميكانيكي دون عوار لعدة سنوات.</li><li>إنتاج لكل منشأة: حلول تتجاوز القياس القياسي.</li><li>وصول عالمي: شبكة إنتاج تبدأ من غازي عنتاب وتنفذ للأسواق الدولية.</li></ul><h3>إلى أين نتجه</h3><p>لكل خط نسلّمه نراجع الملاحظات وقياس الكفاءة وتحسين العملية، ونوظف هذه المعرفة في الجيل القادم من المنتجات. هدفنا: أن نكون من أول الأسماء التي تتبادر إلى الذهن عند الحديث عن معدات معالجة الأغذية.</p>"
- }
+  "name": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "رؤية"
+  },
+  "id": "vizyon",
+  "index": 3,
+  "path": "vizyon",
+  "category": "kurumsal",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Vizyonumuz</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak vizyonumuz; gıda işleme makinelerinde Türkiye'den dünyaya uzanan, kalitesi ve sonrası hizmetiyle tanınan bir marka olmaktır.</p><h3>Tarıf</h3><p>Fıstık, çekirdek ve kuru meyve işleme hatlarında; yerli işletmelerin ve ihracat pazarlarının tercih ettiği, tek elden hat çözümleri sunan bir makinici marka olmak. Ürün gamımızı hat entegrasyonuna uygun şekilde genişletmek ve kalite ile sonrası standartla her teslimatta aynı deneyimi sunmak.</p><h3>Öncelik</h3><ul><li>Gıda güvenliği: Her üründe değişmez öncelik.</li><li>Dayanıklılık: Yıllarca sorunsuz mekanik performans.</li><li>İş letmeye özel üretim: Standart ölçünün ötesinde çözümler.</li><li>Küresel erişim: Gaziantep'ten başlayan, uluslararası pazarlara açılan bir üretim ağı.</li></ul><h3>Nereye Gidiyoruz</h3><p>Teslim attığımız her hat için geri bildirim, verim ölçümü ve süreç iyileştirmesi yapar; bu bilgiyi yeni jenerasyon ürünlerde değerlendiririz. Hedefimiz, gıda işleme makineleri denince akla gelen isimlerden biri olmaktır.</p>",
+    "en": "<h2>Our Vision</h2><p class=\"lead\">Our vision as Duru Agro Food Machinery is to be a brand recognized for quality and after-sales service, expanding from Turkey to the world in food processing machinery.</p><h3>Definition</h3><p>To be a machine maker brand preferred by domestic businesses and export markets in pistachio, kernel and dried-fruit processing lines, offering one-stop line solutions. We grow our product range in line with line integration and deliver the same experience at every delivery with quality and after-sales standards.</p><h3>Priorities</h3><ul><li>Food safety: an unchanging priority in every product.</li><li>Durability: years of trouble-free mechanical performance.</li><li>Production per facility: solutions beyond the standard size.</li><li>Global reach: a production network starting in Gaziantep and opening to international markets.</li></ul><h3>Where We Are Heading</h3><p>For every line we deliver, we evaluate feedback, efficiency measurement and process improvement, and apply that knowledge in the next generation of products. Our goal is to be one of the first names that comes to mind for food processing machinery.</p>",
+    "ar": "<h2>رؤيتنا</h2><p class=\"lead\">رؤيتنا في دورو أغرو: أن نصنع علامة معروفة بالكفاءة وخدمة ما بعد البيع، تمتد من تركيا إلى العالم في معدات معالجة الأغذية.</p><h3>التعريف</h3><p>أن نكون علامة مجهزة مفضلة لدى المنشآت المحلية وأسواق التصدير في خطوط الفستق والنوى والفواكه المجففة، نوفر حلول خطوط متكاملة من مصدر واحد. نميّع نطاق منتجاتنا بما يناسب تكامل الخط، ونُسلم التجربة نفسها في كل تسليم بالكفاءة وخدمة ما بعد البيع.</p><h3>أولوياتنا</h3><ul><li>سلامة الغذاء: أولوية ثابتة في كل منتج.</li><li>المتانة: أداء ميكانيكي دون عوار لعدة سنوات.</li><li>إنتاج لكل منشأة: حلول تتجاوز القياس القياسي.</li><li>وصول عالمي: شبكة إنتاج تبدأ من غازي عنتاب وتنفذ للأسواق الدولية.</li></ul><h3>إلى أين نتجه</h3><p>لكل خط نسلّمه نراجع الملاحظات وقياس الكفاءة وتحسين العملية، ونوظف هذه المعرفة في الجيل القادم من المنتجات. هدفنا: أن نكون من أول الأسماء التي تتبادر إلى الذهن عند الحديث عن معدات معالجة الأغذية.</p>"
+  },
+  "title": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "رؤية"
+  },
+  "update": "2026-10-25T15:45:07.309Z",
+  "date": "2026-10-25T14:10:10.174Z",
+  "bg": "1.jpg"
 }

@@ -1,7 +1,44 @@
 {
- "text": {
-  "tr": "<h2>Elevatör Model 6 — Yüksek Kapasiteli Taşıma</h2><p class=\"lead\">Elevatör Model 6, yüksek debi gerektiren hatlar için tasarlanmış bantlı taşıma makinesidir. Geniş bant, yüksek kapasiteli motor ve redüktör ile saatte yüksek tonajdaki ürün taşınır.</p><h3>Ürün Tanıtımı</h3><p>Büyük kapasiteli üretim hatlarında; eleme, kavurma ve paklama üniteleri arasındaki taşıma debisi yüksek tutulmalıdır. Bu modelde bant genişliği, destek yapısı ve motor gücü; debi ve mesafeye göre boyutlandırılır.</p><h3>Özellikleri</h3><ul><li>Geniş gıda sınıfı bant.</li><li>Paslanmaz çelik gövde ve endüstriyel destek yapısı.</li><li>Yüksek kapasiteli motor ve redüktör.</li><li>Bant sapma, acil durdurma ve güvenlik devresi.</li></ul><h3>Kullanım Alanları</h3><ul><li>Yüksek hacimli fıstık ve çekirdek ürünü hatları.</li><li>Depodan eleme noktasına ana taşım.</li><li>Üretim alanı ve depolama alanı arasındaki yüksek debi transfer.</li></ul>",
-  "en": "<h2>Elevator Model 6 — High-Capacity Transport</h2><p class=\"lead\">Elevator Model 6 is a belt conveyor machine designed for lines requiring high flow. With its wide belt, high-capacity motor and gear reducer, high-tonnage hourly product is carried.</p><h3>Introduction</h3><p>In large-capacity production lines, the transport flow between the screening, roasting and packaging units must be kept high. In this model, belt width, support structure and motor power are sized to flow and distance.</p><h3>Features</h3><ul><li>Wide food-grade belt.</li><li>Stainless steel body and industrial support structure.</li><li>High-capacity motor and gear reducer.</li><li>Belt misalignment, emergency stop and safety circuit.</li></ul><h3>Applications</h3><ul><li>High-volume pistachio and kernel product lines.</li><li>Main transport from the warehouse to the screening point.</li><li>High flow transfer between production and storage areas.</li></ul>",
-  "ar": "<h2>مصعد النموذج 6 — نقل بسعة عالية</h2><p class=\"lead\">مصعد النموذج 6 جهاز نقل حزامي مصمَّم للخطوط التي تتطلب تدفقًا عالٍ. بفضل الحزام العريض والمحرك والقواطرة عالية السعة، تُنقل الأحمالات الكبيرة بالساعة.</p><h3>عنوان المنتج</h3><p>في خطوط الإنتاج الكبيرة يجب إبقاء تدفق النقل بين وحدات الفرز والتحميص والتغليف عالٍ. في هذا النموذج يُقاس عرض الحزام وهيكل الدعم وقوة المحرك وفقًا للتدفق والمسافة.</p><h3>المميزات</h3><ul><li>حزام عريض مناسب للأغذية.</li><li>هيكل من الفولاذ المقاوم للصدأ وهوكل دعم صناعي.</li><li>محرك وقواطع بسعة عالية.</li><li>حساس انحراف الحزام وتوقف طارئ ودائرة أمان.</li></ul><h3>مجالات الاستخدام</h3><ul><li>خطوط الفستق ومنتجات النوى عالية الحجم.</li><li>النقل الرئيسي من المستودع إلى نقطة الفرز.</li><li>نقل تدفق عالٍ بين مناطق الإنتاج والتخزين.</li></ul>"
- }
+  "name": {
+    "tr": "Elevatör 6",
+    "en": "Elevator 6",
+    "ar": "مصعد 6"
+  },
+  "id": "p0oj58ed66",
+  "index": 13,
+  "path": "elevator6",
+  "category": "",
+  "img": "nv0rd.jpg",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "url": "elevator-6",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Elevatör Model 6 — Yüksek Kapasiteli Taşıma</h2><p class=\"lead\">Elevatör Model 6, yüksek debi gerektiren hatlar için tasarlanmış bantlı taşıma makinesidir. Geniş bant, yüksek kapasiteli motor ve redüktör ile saatte yüksek tonajdaki ürün taşınır.</p><h3>Ürün Tanıtımı</h3><p>Büyük kapasiteli üretim hatlarında; eleme, kavurma ve paklama üniteleri arasındaki taşıma debisi yüksek tutulmalıdır. Bu modelde bant genişliği, destek yapısı ve motor gücü; debi ve mesafeye göre boyutlandırılır.</p><h3>Özellikleri</h3><ul><li>Geniş gıda sınıfı bant.</li><li>Paslanmaz çelik gövde ve endüstriyel destek yapısı.</li><li>Yüksek kapasiteli motor ve redüktör.</li><li>Bant sapma, acil durdurma ve güvenlik devresi.</li></ul><h3>Kullanım Alanları</h3><ul><li>Yüksek hacimli fıstık ve çekirdek ürünü hatları.</li><li>Depodan eleme noktasına ana taşım.</li><li>Üretim alanı ve depolama alanı arasındaki yüksek debi transfer.</li></ul>",
+    "en": "<h2>Elevator Model 6 — High-Capacity Transport</h2><p class=\"lead\">Elevator Model 6 is a belt conveyor machine designed for lines requiring high flow. With its wide belt, high-capacity motor and gear reducer, high-tonnage hourly product is carried.</p><h3>Introduction</h3><p>In large-capacity production lines, the transport flow between the screening, roasting and packaging units must be kept high. In this model, belt width, support structure and motor power are sized to flow and distance.</p><h3>Features</h3><ul><li>Wide food-grade belt.</li><li>Stainless steel body and industrial support structure.</li><li>High-capacity motor and gear reducer.</li><li>Belt misalignment, emergency stop and safety circuit.</li></ul><h3>Applications</h3><ul><li>High-volume pistachio and kernel product lines.</li><li>Main transport from the warehouse to the screening point.</li><li>High flow transfer between production and storage areas.</li></ul>",
+    "ar": "<h2>مصعد النموذج 6 — نقل بسعة عالية</h2><p class=\"lead\">مصعد النموذج 6 جهاز نقل حزامي مصمَّم للخطوط التي تتطلب تدفقًا عالٍ. بفضل الحزام العريض والمحرك والقواطرة عالية السعة، تُنقل الأحمالات الكبيرة بالساعة.</p><h3>عنوان المنتج</h3><p>في خطوط الإنتاج الكبيرة يجب إبقاء تدفق النقل بين وحدات الفرز والتحميص والتغليف عالٍ. في هذا النموذج يُقاس عرض الحزام وهيكل الدعم وقوة المحرك وفقًا للتدفق والمسافة.</p><h3>المميزات</h3><ul><li>حزام عريض مناسب للأغذية.</li><li>هيكل من الفولاذ المقاوم للصدأ وهوكل دعم صناعي.</li><li>محرك وقواطع بسعة عالية.</li><li>حساس انحراف الحزام وتوقف طارئ ودائرة أمان.</li></ul><h3>مجالات الاستخدام</h3><ul><li>خطوط الفستق ومنتجات النوى عالية الحجم.</li><li>النقل الرئيسي من المستودع إلى نقطة الفرز.</li><li>نقل تدفق عالٍ بين مناطق الإنتاج والتخزين.</li></ul>"
+  },
+  "title": {
+    "tr": "Elevatör 6",
+    "en": "Elevator 6",
+    "ar": "مصعد 6"
+  },
+  "update": "2026-10-25T15:45:07.298Z",
+  "date": "2026-10-25T14:10:10.645Z",
+  "bg": "1.jpg"
 }

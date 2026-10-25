@@ -1,7 +1,44 @@
 {
- "text": {
-  "tr": "<h2>Paletli Kavurma Fırını</h2><p class=\"lead\">Paletli kavurma fırını; fıstık, fındık, badem ve çekirdek ürünlerinde büyük kapasiteli eşit kavurma yapan fırın tipinde makinedir. Gaziantep'teki tesisimizde gıda sınıfı gövdeyle imal edilir.</p><h3>Ürün Tanıtımı</h3><p>Ürün, fırın içindeki paletler üzerinde sürekli dolaştırılır; ısı eşit şekilde dağıtılır. Fırın, büyük parti üretiminde sürekli akış sağlar. Kavurma profili (derece, süre, dönüş), ürün çeşidine göre programlanır. Döngü sonunda ürün, soğutma ünitesine aktarılır.</p><h3>Özellikleri</h3><ul><li>Paletli sistem; büyük kapasitede sürekli kavurma.</li><li>Gıda sınıfı iç yüzey ve paslanmaz çelik gövde.</li><li>Derece + süre profilleri; ürün başına program seçimi.</li><li>Karıştırıcı palet ile homojen kavurma.</li></ul><h3>Kullanım Alanları</h3><ul><li>Fıstık, fındık ve badem kavurma.</li><li>Büyük hacimli üretimde sürekli kavurma hattı.</li><li>Dövme ve paketleme hatlarında ısıl işlem.</li></ul>",
-  "en": "<h2>Pallet Roasting Oven</h2><p class=\"lead\">The pallet roasting oven is an oven-type machine for high-capacity, even roasting of pistachio, hazelnut, almond and kernel products. It is manufactured at our Gaziantep facility with a food-grade body.</p><h3>Introduction</h3><p>Inside the oven, the product is continuously circulated on the pallets; heat is distributed evenly. The oven provides continuous flow in large-batch production. The roasting profile (temperature, time, rotation) is programmed per product. At the end of the cycle, the product is transferred to the cooling unit.</p><h3>Features</h3><ul><li>Pallet system; continuous roasting at high capacity.</li><li>Food-grade inner surface and stainless steel body.</li><li>Temperature + time profiles; program selection per product.</li><li>Homogeneous roasting with mixing pallets.</li></ul><h3>Applications</h3><ul><li>Roasting of pistachio, hazelnut and almond.</li><li>Continuous roasting line in large-volume production.</li><li>Heat treatment in roasting and packaging lines.</li></ul>",
-  "ar": "<h2>فرن التحميص بالرفوف</h2><p class=\"lead\">فرن التحميص بالرفوف آلة من الطراز فرني للتحميص المتساوي عالي السعة للفستق والبندق واللوز ومنتجات النوى. يُصنع في منشأتنا في غازي عنتاب بهيكل مناسب للأغذية.</p><h3>نبذة عن المنتج</h3><p>داخل الفرن يُدار المنتج باستمرار على الرفوف؛ وتُوزّع الحرارة بالتساوي. يوفر الفرن تدفقا مستمرا في الإنتاج بالدفعات الكبيرة. يُبرمج ملف التحميص (الحرارة وزمن الدوران) لكل منتج. بنهاية الدورة ينتقل المنتج إلى وحدة التبريد.</p><h3>المميزات</h3><ul><li>نظام رفوف؛ تحميص مستمر بسعة عالية.</li><li>سطح داخلي مناسب للأغذية وهيكل من الفولاذ المقاوم للصدأ.</li><li>ملفات حرارة وزمن مع برنامج لكل منتج.</li><li>تحميص متجانس عبر رفوف الخلط.</li></ul><h3>مجالات الاستخدام</h3><ul><li>تحميص الفستق والبندق واللوز.</li><li>خط تحميص مستمر في الإنتاج عالي الحجم.</li><li>معالجة حرارية في خطوط التحميص والتغليف.</li></ul>"
- }
+  "name": {
+    "tr": "Paletli Kavurma Fırını",
+    "en": "Pallet Roasting Oven",
+    "ar": "فرن تحميص البليت"
+  },
+  "id": "kpyewtvsc8",
+  "index": 5,
+  "path": "paletlikavurmafirini",
+  "category": "",
+  "img": "szpwf.jpg",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "url": "paletli-kavurma-firini",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Paletli Kavurma Fırını</h2><p class=\"lead\">Paletli kavurma fırını; fıstık, fındık, badem ve çekirdek ürünlerinde büyük kapasiteli eşit kavurma yapan fırın tipinde makinedir. Gaziantep'teki tesisimizde gıda sınıfı gövdeyle imal edilir.</p><h3>Ürün Tanıtımı</h3><p>Ürün, fırın içindeki paletler üzerinde sürekli dolaştırılır; ısı eşit şekilde dağıtılır. Fırın, büyük parti üretiminde sürekli akış sağlar. Kavurma profili (derece, süre, dönüş), ürün çeşidine göre programlanır. Döngü sonunda ürün, soğutma ünitesine aktarılır.</p><h3>Özellikleri</h3><ul><li>Paletli sistem; büyük kapasitede sürekli kavurma.</li><li>Gıda sınıfı iç yüzey ve paslanmaz çelik gövde.</li><li>Derece + süre profilleri; ürün başına program seçimi.</li><li>Karıştırıcı palet ile homojen kavurma.</li></ul><h3>Kullanım Alanları</h3><ul><li>Fıstık, fındık ve badem kavurma.</li><li>Büyük hacimli üretimde sürekli kavurma hattı.</li><li>Dövme ve paketleme hatlarında ısıl işlem.</li></ul>",
+    "en": "<h2>Pallet Roasting Oven</h2><p class=\"lead\">The pallet roasting oven is an oven-type machine for high-capacity, even roasting of pistachio, hazelnut, almond and kernel products. It is manufactured at our Gaziantep facility with a food-grade body.</p><h3>Introduction</h3><p>Inside the oven, the product is continuously circulated on the pallets; heat is distributed evenly. The oven provides continuous flow in large-batch production. The roasting profile (temperature, time, rotation) is programmed per product. At the end of the cycle, the product is transferred to the cooling unit.</p><h3>Features</h3><ul><li>Pallet system; continuous roasting at high capacity.</li><li>Food-grade inner surface and stainless steel body.</li><li>Temperature + time profiles; program selection per product.</li><li>Homogeneous roasting with mixing pallets.</li></ul><h3>Applications</h3><ul><li>Roasting of pistachio, hazelnut and almond.</li><li>Continuous roasting line in large-volume production.</li><li>Heat treatment in roasting and packaging lines.</li></ul>",
+    "ar": "<h2>فرن التحميص بالرفوف</h2><p class=\"lead\">فرن التحميص بالرفوف آلة من الطراز فرني للتحميص المتساوي عالي السعة للفستق والبندق واللوز ومنتجات النوى. يُصنع في منشأتنا في غازي عنتاب بهيكل مناسب للأغذية.</p><h3>نبذة عن المنتج</h3><p>داخل الفرن يُدار المنتج باستمرار على الرفوف؛ وتُوزّع الحرارة بالتساوي. يوفر الفرن تدفقا مستمرا في الإنتاج بالدفعات الكبيرة. يُبرمج ملف التحميص (الحرارة وزمن الدوران) لكل منتج. بنهاية الدورة ينتقل المنتج إلى وحدة التبريد.</p><h3>المميزات</h3><ul><li>نظام رفوف؛ تحميص مستمر بسعة عالية.</li><li>سطح داخلي مناسب للأغذية وهيكل من الفولاذ المقاوم للصدأ.</li><li>ملفات حرارة وزمن مع برنامج لكل منتج.</li><li>تحميص متجانس عبر رفوف الخلط.</li></ul><h3>مجالات الاستخدام</h3><ul><li>تحميص الفستق والبندق واللوز.</li><li>خط تحميص مستمر في الإنتاج عالي الحجم.</li><li>معالجة حرارية في خطوط التحميص والتغليف.</li></ul>"
+  },
+  "title": {
+    "tr": "Paletli Kavurma Fırını",
+    "en": "Pallet Roasting Oven",
+    "ar": "فرن تحميص البليت"
+  },
+  "update": "2026-10-25T15:45:07.283Z",
+  "date": "2026-10-25T14:10:10.437Z",
+  "bg": "1.jpg"
 }

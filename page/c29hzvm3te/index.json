@@ -1,7 +1,44 @@
 {
- "text": {
-  "tr": "<h2>Döner Kavurma Makinesi</h2><p class=\"lead\">Döner kavurma makinesi; fıstık, badem, ceviz ve çekirdek ürünlerinde eşit ve kontrollü kavurma yapan döner tip makinedir. Doğal kavurma aromasını hedefler; Gaziantep'teki tesisimizde gıda sınıfı gövdeyle imal edilir.</p><h3>Ürün Tanıtımı</h3><p>Döner silindir, ısıtma bölgesinde ürünün sürekli hareketi ile eşit ısınmayı sağlar. Kavurma derecesi ve süresi, ürün çeşidine göre ayarlanır. Çıkışta ürün soğutmaya aktarılır. Silindir iç yüzeyi, gıda temaslı standartlarda üretim.</p><h3>Özellikleri</h3><ul><li>Eşit ve kontrollü kavurma; derecesi + süre ayarı.</li><li>Gıda sınıfı gövde ve iç yüzey.</li><li>Isı kaynağı seçeneği (doğal gaz veya elektrikli).</li><li>Isıyı dağıtan iç çalkalayıcı.</li><li>Motor ve redüktör ile sürekli dönüş.</li></ul><h3>Kullanım Alanları</h3><ul><li>Fıstık, badem ve ceviz kavurma.</li><li>Çekirdek ürünlerinde kavurma hattı.</li><li>Dövme ve paketleme hatlarında ara ısıl işlem.</li></ul>",
-  "en": "<h2>Drum Roaster</h2><p class=\"lead\">The drum roaster is a drum-type machine that roasts pistachio, almond, walnut and kernel products evenly and with control. It targets the natural roasting aroma and is manufactured at our Gaziantep facility with a food-grade body.</p><h3>Introduction</h3><p>The rotating cylinder, with the continuous movement of the product in the heating zone, ensures even heating. Roasting temperature and time are adjusted according to the product. At the outlet, the product is transferred to cooling. The inner surface of the cylinder is made to food-contact standards.</p><h3>Features</h3><ul><li>Even, controlled roasting; temperature + time adjustment.</li><li>Food-grade body and inner surface.</li><li>Heat-source option (natural gas or electric).</li><li>Internal agitator for even heat distribution.</li><li>Continuous rotation via motor and gear reducer.</li></ul><h3>Applications</h3><ul><li>Roasting of pistachio, almond and walnut.</li><li>Roasting line for kernel products.</li><li>Intermediate heat treatment in roasting and packaging lines.</li></ul>",
-  "ar": "<h2>جهاز التحميص الدوّار</h2><p class=\"lead\">جهاز التحميص الدوّار آلة من النوع الدوّار تحمّص الفستق واللوز والجوز ومنتجات النوى بالتساوي وتحكم. يستهدف نكهة التحميص الطبيعية، ويُصنع في منشأتنا في غازي عنتاب بهيكل مناسب للأغذية.</p><h3>نبذة عن المنتج</h3><p>الأسطوانة الدوّارة، مع الحركة المستمرة للمنتج في منطقة التسخين، تضمن تسخينًا متساوياً. تُضبط درجة التحميص والمدة وفق المنتج. عند المخرج ينتقل المنتج إلى التبريد. السطح الداخلي للأسطوانة مطابق لمعايير ملامسة الأغذية.</p><h3>المميزات</h3><ul><li>تحميص متساوٍ ومنضبط؛ ضبط الحرارة والمدة.</li><li>هيكل وسطح داخلي مناسبان للأغذية.</li><li>خيار مصدر الحرارة (غاز طبيعي أو كهرباء).</li><li>مُحرِّك داخلي لتوزيع الحرارة بالتساوي.</li><li>دوران مستمر عبر المحرك ومحول العزم.</li></ul><h3>مجالات الاستخدام</h3><ul><li>تحميص الفستق واللوز والجوز.</li><li>خط تحميص لمنتجات النوى.</li><li>معالجة حرارية وسطية في خطوط التحميص والتغليف.</li></ul>"
- }
+  "name": {
+    "tr": "Döner Kavurma Makinesi",
+    "en": "Doner Roasting Machine",
+    "ar": "ماكينة تحميص الدونر"
+  },
+  "id": "c29hzvm3te",
+  "index": 1,
+  "path": "donerkavurmamakinesi",
+  "category": "Roasting Equipment",
+  "img": "o46cc.jpg",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "url": "doner-roasting-machine",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Döner Kavurma Makinesi</h2><p class=\"lead\">Döner kavurma makinesi; fıstık, badem, ceviz ve çekirdek ürünlerinde eşit ve kontrollü kavurma yapan döner tip makinedir. Doğal kavurma aromasını hedefler; Gaziantep'teki tesisimizde gıda sınıfı gövdeyle imal edilir.</p><h3>Ürün Tanıtımı</h3><p>Döner silindir, ısıtma bölgesinde ürünün sürekli hareketi ile eşit ısınmayı sağlar. Kavurma derecesi ve süresi, ürün çeşidine göre ayarlanır. Çıkışta ürün soğutmaya aktarılır. Silindir iç yüzeyi, gıda temaslı standartlarda üretim.</p><h3>Özellikleri</h3><ul><li>Eşit ve kontrollü kavurma; derecesi + süre ayarı.</li><li>Gıda sınıfı gövde ve iç yüzey.</li><li>Isı kaynağı seçeneği (doğal gaz veya elektrikli).</li><li>Isıyı dağıtan iç çalkalayıcı.</li><li>Motor ve redüktör ile sürekli dönüş.</li></ul><h3>Kullanım Alanları</h3><ul><li>Fıstık, badem ve ceviz kavurma.</li><li>Çekirdek ürünlerinde kavurma hattı.</li><li>Dövme ve paketleme hatlarında ara ısıl işlem.</li></ul>",
+    "en": "<h2>Drum Roaster</h2><p class=\"lead\">The drum roaster is a drum-type machine that roasts pistachio, almond, walnut and kernel products evenly and with control. It targets the natural roasting aroma and is manufactured at our Gaziantep facility with a food-grade body.</p><h3>Introduction</h3><p>The rotating cylinder, with the continuous movement of the product in the heating zone, ensures even heating. Roasting temperature and time are adjusted according to the product. At the outlet, the product is transferred to cooling. The inner surface of the cylinder is made to food-contact standards.</p><h3>Features</h3><ul><li>Even, controlled roasting; temperature + time adjustment.</li><li>Food-grade body and inner surface.</li><li>Heat-source option (natural gas or electric).</li><li>Internal agitator for even heat distribution.</li><li>Continuous rotation via motor and gear reducer.</li></ul><h3>Applications</h3><ul><li>Roasting of pistachio, almond and walnut.</li><li>Roasting line for kernel products.</li><li>Intermediate heat treatment in roasting and packaging lines.</li></ul>",
+    "ar": "<h2>جهاز التحميص الدوّار</h2><p class=\"lead\">جهاز التحميص الدوّار آلة من النوع الدوّار تحمّص الفستق واللوز والجوز ومنتجات النوى بالتساوي وتحكم. يستهدف نكهة التحميص الطبيعية، ويُصنع في منشأتنا في غازي عنتاب بهيكل مناسب للأغذية.</p><h3>نبذة عن المنتج</h3><p>الأسطوانة الدوّارة، مع الحركة المستمرة للمنتج في منطقة التسخين، تضمن تسخينًا متساوياً. تُضبط درجة التحميص والمدة وفق المنتج. عند المخرج ينتقل المنتج إلى التبريد. السطح الداخلي للأسطوانة مطابق لمعايير ملامسة الأغذية.</p><h3>المميزات</h3><ul><li>تحميص متساوٍ ومنضبط؛ ضبط الحرارة والمدة.</li><li>هيكل وسطح داخلي مناسبان للأغذية.</li><li>خيار مصدر الحرارة (غاز طبيعي أو كهرباء).</li><li>مُحرِّك داخلي لتوزيع الحرارة بالتساوي.</li><li>دوران مستمر عبر المحرك ومحول العزم.</li></ul><h3>مجالات الاستخدام</h3><ul><li>تحميص الفستق واللوز والجوز.</li><li>خط تحميص لمنتجات النوى.</li><li>معالجة حرارية وسطية في خطوط التحميص والتغليف.</li></ul>"
+  },
+  "title": {
+    "tr": "Döner Kavurma Makinesi",
+    "en": "Doner Roasting Machine",
+    "ar": "ماكينة تحميص الدونر"
+  },
+  "update": "2026-10-25T15:45:07.243Z",
+  "date": "2026-10-25T14:10:10.373Z",
+  "bg": "1.jpg"
 }

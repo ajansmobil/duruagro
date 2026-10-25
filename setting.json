@@ -24,7 +24,7 @@
     "ko": false,
     "pt": false
   },
-  "logo": "logo.png",
+  "logo": "logo-old-kirmizi.png",
   "eticaret": false,
   "cari": false,
   "modSiparis": false,
@@ -45,5 +45,6 @@
     "remoteNewer": false,
     "provisionStub": true,
     "lastError": ""
-  }
+  },
+  "defaultLang": ""
 }

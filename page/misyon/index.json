@@ -1,7 +1,42 @@
 {
- "text": {
-  "tr": "<h2>Misyonumuz</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak misyonumuz; gıda işleme hatlarında her tesise özel, dayanıklı ve yüksek verimli makina üretmek; gıda güvenliğinden ödün vermeden işletmenin verim artırmak ve kurulumdan sonrasına kadar kesintisiz teknik destek sunmaktır.</p><h3>Makinemizde Ne Vaad Et</h3><ul><li>Tesise özel boyut: Hammadde, kapasite ve hat yerleşimine göre tasarım.</li><li>Gıda sınıfı aksamlar: Paslanmaz çelik gövde, gıda sınıfı bant ve aktarma parçaları.</li><li>Çalışan mekanizma: Ayar, temizlik ve bakım erişimi kolaylaştıran yapı.</li><li>Belgeler ve eğitim: Montaj, çalışma talimatı ve operatör eğitimi.</li></ul><h3>Bunu Nasıl Taşıyoruz</h3><p>Üretimden önce operasyon koşullarını birlikte belirleriz: hammadde özelliği, günlük adet, hat içindeki konum, personel sayısı. Bu parametreler üzerinden ölçü, motor gücü ve kapasiteyi ayarlar; makineyi tesiste kurar, test edilir ve personel eğitiminden sonra teslim alırız.</p><h3>Ölçütümüz</h3><p>Basarımız, makinenin tesiste sorunsuz çalışmasıyla ölçülür. Bu ölçüye her teslimatta ulaşmak için tasarım, üretim ve devreye alma sürecini işletme verileriyle birlikte ilerletiriz.</p>",
-  "en": "<h2>Our Mission</h2><p class=\"lead\">Our mission as Duru Agro Food Machinery is to manufacture durable, high-efficiency machines customized for each food processing line, to increase the facility's efficiency without compromising food safety, and to provide seamless technical support from installation onward.</p><h3>What We Commit to in Our Machines</h3><ul><li>Sizing per facility: design based on raw material, capacity and line layout.</li><li>Food-grade components: stainless steel bodies, food-grade belts and transfer parts.</li><li>Working mechanisms: structures that make adjustment, cleaning and maintenance easy.</li><li>Documentation and training: assembly, operating instructions and operator training.</li></ul><h3>How We Deliver It</h3><p>Before production, we define the operating conditions together: raw material characteristics, daily volume, position in the line, staff size. Based on these parameters we adjust dimensions, motor power and capacity; the machine is installed at the facility, tested, and handed over after the personnel training.</p><h3>Our Benchmark</h3><p>Success is measured by the machine running without problems in the facility. To reach that benchmark in every delivery, we develop the design, production and commissioning process together with the facility's operational data.</p>",
-  "ar": "<h2>مهمتنا</h2><p class=\"lead\">مهمتنا في دورو أغرو: إنتاج معدات متينة وعالية الكفاءة مخصصة لكل خط معالجة أغذية، زيادة كفاءة المنشأة دون المساس بسلامة الغذاء، وتوفير دعم تقني مستمر بدءًا من التركيب.</p><h3>ماذا نلتزم فيه</h3><ul><li>أبعاد لكل منشأة: تصميم وفق المادة الخام والإنتاجية وتخطيط الخط.</li><li>مكونات مناسبة للأغذية: هيكل من الفولاذ المقاوم للصدأ وحزام وأجزاء نقل مناسبة.</li><li>آليات عملية: هياكل تسهل الضبط والتنظيف والصيانة.</li><li>وثائق وتدريب: تركيب وتعليمات تشغيل وتدريب المشغل.</li></ul><h3>كيف ننفذ</h3><p>قبل الإنتاج نحدد معًا شروط التشغيل: خصائص المادة، الكمية اليومية، الموقع في الخط، عدد الطاقم. ومن هذه المعايير نضبط الأبعاد وقوة المحرك والإنتاجية؛ يركب الجهاز في المنشأة ويُختبر ويسلم بعد تدريب الطاقم.</p><h3>مرجعنا</h3><p>النجاح يُقاس بعمل الجهاز دون مشاكل في المنشأة. ونصل إلى هذا المرجع في كل تسليم بتطوير عملية التصميم والإنتاج والتشغيل مع بيانات المنشأة التشغيلية.</p>"
- }
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "مهمة"
+  },
+  "id": "misyon",
+  "index": 2,
+  "path": "misyon",
+  "category": "kurumsal",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Misyonumuz</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak misyonumuz; gıda işleme hatlarında her tesise özel, dayanıklı ve yüksek verimli makina üretmek; gıda güvenliğinden ödün vermeden işletmenin verim artırmak ve kurulumdan sonrasına kadar kesintisiz teknik destek sunmaktır.</p><h3>Makinemizde Ne Vaad Et</h3><ul><li>Tesise özel boyut: Hammadde, kapasite ve hat yerleşimine göre tasarım.</li><li>Gıda sınıfı aksamlar: Paslanmaz çelik gövde, gıda sınıfı bant ve aktarma parçaları.</li><li>Çalışan mekanizma: Ayar, temizlik ve bakım erişimi kolaylaştıran yapı.</li><li>Belgeler ve eğitim: Montaj, çalışma talimatı ve operatör eğitimi.</li></ul><h3>Bunu Nasıl Taşıyoruz</h3><p>Üretimden önce operasyon koşullarını birlikte belirleriz: hammadde özelliği, günlük adet, hat içindeki konum, personel sayısı. Bu parametreler üzerinden ölçü, motor gücü ve kapasiteyi ayarlar; makineyi tesiste kurar, test edilir ve personel eğitiminden sonra teslim alırız.</p><h3>Ölçütümüz</h3><p>Basarımız, makinenin tesiste sorunsuz çalışmasıyla ölçülür. Bu ölçüye her teslimatta ulaşmak için tasarım, üretim ve devreye alma sürecini işletme verileriyle birlikte ilerletiriz.</p>",
+    "en": "<h2>Our Mission</h2><p class=\"lead\">Our mission as Duru Agro Food Machinery is to manufacture durable, high-efficiency machines customized for each food processing line, to increase the facility's efficiency without compromising food safety, and to provide seamless technical support from installation onward.</p><h3>What We Commit to in Our Machines</h3><ul><li>Sizing per facility: design based on raw material, capacity and line layout.</li><li>Food-grade components: stainless steel bodies, food-grade belts and transfer parts.</li><li>Working mechanisms: structures that make adjustment, cleaning and maintenance easy.</li><li>Documentation and training: assembly, operating instructions and operator training.</li></ul><h3>How We Deliver It</h3><p>Before production, we define the operating conditions together: raw material characteristics, daily volume, position in the line, staff size. Based on these parameters we adjust dimensions, motor power and capacity; the machine is installed at the facility, tested, and handed over after the personnel training.</p><h3>Our Benchmark</h3><p>Success is measured by the machine running without problems in the facility. To reach that benchmark in every delivery, we develop the design, production and commissioning process together with the facility's operational data.</p>",
+    "ar": "<h2>مهمتنا</h2><p class=\"lead\">مهمتنا في دورو أغرو: إنتاج معدات متينة وعالية الكفاءة مخصصة لكل خط معالجة أغذية، زيادة كفاءة المنشأة دون المساس بسلامة الغذاء، وتوفير دعم تقني مستمر بدءًا من التركيب.</p><h3>ماذا نلتزم فيه</h3><ul><li>أبعاد لكل منشأة: تصميم وفق المادة الخام والإنتاجية وتخطيط الخط.</li><li>مكونات مناسبة للأغذية: هيكل من الفولاذ المقاوم للصدأ وحزام وأجزاء نقل مناسبة.</li><li>آليات عملية: هياكل تسهل الضبط والتنظيف والصيانة.</li><li>وثائق وتدريب: تركيب وتعليمات تشغيل وتدريب المشغل.</li></ul><h3>كيف ننفذ</h3><p>قبل الإنتاج نحدد معًا شروط التشغيل: خصائص المادة، الكمية اليومية، الموقع في الخط، عدد الطاقم. ومن هذه المعايير نضبط الأبعاد وقوة المحرك والإنتاجية؛ يركب الجهاز في المنشأة ويُختبر ويسلم بعد تدريب الطاقم.</p><h3>مرجعنا</h3><p>النجاح يُقاس بعمل الجهاز دون مشاكل في المنشأة. ونصل إلى هذا المرجع في كل تسليم بتطوير عملية التصميم والإنتاج والتشغيل مع بيانات المنشأة التشغيلية.</p>"
+  },
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "مهمة"
+  },
+  "update": "2026-10-25T15:45:07.289Z",
+  "date": "2026-10-25T14:10:10.169Z",
+  "bg": "1.jpg"
 }

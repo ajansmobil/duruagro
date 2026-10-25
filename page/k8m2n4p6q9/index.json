@@ -1,7 +1,44 @@
 {
- "text": {
-  "tr": "<h2>Kurulum Hizmetleri</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak makinalarımızı; keşif, planlama, montaj, devreye alma ve operatör eğitimiyle birlikte teslim ediyoruz. Kurulum, makinenin hattında sorunsuz çalışmasının başlangıcıdır.</p><h3>Keşif ve Planlama</h3><ul><li>Tesis zemin, yükseklik ve hat yerleşimi ölçülür.</li><li>Makina ölçüsü, montaj noktaları ve elektrik beslemesi netleştirilir.</li><li>Montaj takvimi ve teslimat sırası belirlenir.</li></ul><h3>Montaj ve Devreye Alma</h3><ul><li>Makina, imalat tesisiyle aynı standartlarda monte edilir.</li><li>Besleme, ayar ve güvenlik devreleri test edilir.</li><li>Boş ve yüklü test; üretilen ürün kalitesiyle birlikte kayıt altına alınır.</li></ul><h3>Eğitim ve Doküman</h3><p>Operatör ve servis personeline; günlük operasyon, ayar, temizlik ve acil durdurma konularında eğitim verilir. Montaj, çalışma talimati ve yedek parça listesi teslim paketine dahildir.</p>",
-  "en": "<h2>Installation Services</h3><p class=\"lead\">As Duru Agro Food Machinery, we deliver our machines together with survey, planning, assembly, commissioning and operator training. Installation is the starting point of the machine running seamlessly in your line.</p><h3>Survey and Planning</h3><ul><li>The facility's floor, height and line layout are measured.</li><li>Machine dimensions, mounting points and electrical supply are finalized.</li><li>The assembly schedule and delivery sequence are determined.</li></ul><h3>Assembly and Commissioning</h3><ul><li>The machine is assembled to the same standards as our manufacturing facility.</li><li>Feeding, adjustment and safety circuits are tested.</li><li>Empty and loaded testing is recorded along with the quality of the produced product.</li></ul><h3>Training and Documentation</h3><p>Operators and service personnel receive training in daily operation, adjustment, cleaning and emergency stop. Assembly, operating instructions and the spare parts list are included in the delivery package.</p>",
-  "ar": "<h2>خدمات التركيب</h2><p class=\"lead\">نسلّم أجهزتنا مع الاستقصاء والتخطيط والتركيب وتشغيل الخطوط وتدريب المشغلين. التركيب هو نقطة بداية عمل الجهاز بسلاسة في خطكم.</p><h3>الاستقصاء والتخطيط</h3><ul><li>قياس أرضية المنشأة والارتفاعات وتخطيط الخط.</li><li>تحديد أبعاد الجهاز ونقاط التثبيت والتغذية الكهربائية.</li><li>جدولة التركيب وراته التسليم.</li></ul><h3>التركيب والتشغيل</h3><ul><li>يُركَّب الجهاز بنفس معايير منشأتنا الإنتاجية.</li><li>فحص التغذية والضวงจร والدوائر الأمنية.</li><li>تجربة فارغة ومحمّلة تُوثَّق مع جودة المنتج.</li></ul><h3>التدريب والوثائق</h3><p>تدريب المشغلين وفريق الصيانة على التشغيل اليومي والضبط والتنظيف والتوقف الطارئ. ويشمل حزمة التسليم التركيب والتعليمات وقائمة قطع الغيار.</p>"
- }
+  "name": {
+    "tr": "Kurulum Hizmetleri",
+    "en": "Installation Services",
+    "ar": "خدمات التركيب"
+  },
+  "status": "play",
+  "category": "Installation",
+  "id": "k8m2n4p6q9",
+  "externalUrl": "",
+  "path": "kurulumhizmetleri",
+  "index": 1,
+  "url": "",
+  "icon": "doc2",
+  "bgimg": "1.jpg",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Kurulum Hizmetleri</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak makinalarımızı; keşif, planlama, montaj, devreye alma ve operatör eğitimiyle birlikte teslim ediyoruz. Kurulum, makinenin hattında sorunsuz çalışmasının başlangıcıdır.</p><h3>Keşif ve Planlama</h3><ul><li>Tesis zemin, yükseklik ve hat yerleşimi ölçülür.</li><li>Makina ölçüsü, montaj noktaları ve elektrik beslemesi netleştirilir.</li><li>Montaj takvimi ve teslimat sırası belirlenir.</li></ul><h3>Montaj ve Devreye Alma</h3><ul><li>Makina, imalat tesisiyle aynı standartlarda monte edilir.</li><li>Besleme, ayar ve güvenlik devreleri test edilir.</li><li>Boş ve yüklü test; üretilen ürün kalitesiyle birlikte kayıt altına alınır.</li></ul><h3>Eğitim ve Doküman</h3><p>Operatör ve servis personeline; günlük operasyon, ayar, temizlik ve acil durdurma konularında eğitim verilir. Montaj, çalışma talimati ve yedek parça listesi teslim paketine dahildir.</p>",
+    "en": "<h2>Installation Services</h3><p class=\"lead\">As Duru Agro Food Machinery, we deliver our machines together with survey, planning, assembly, commissioning and operator training. Installation is the starting point of the machine running seamlessly in your line.</p><h3>Survey and Planning</h3><ul><li>The facility's floor, height and line layout are measured.</li><li>Machine dimensions, mounting points and electrical supply are finalized.</li><li>The assembly schedule and delivery sequence are determined.</li></ul><h3>Assembly and Commissioning</h3><ul><li>The machine is assembled to the same standards as our manufacturing facility.</li><li>Feeding, adjustment and safety circuits are tested.</li><li>Empty and loaded testing is recorded along with the quality of the produced product.</li></ul><h3>Training and Documentation</h3><p>Operators and service personnel receive training in daily operation, adjustment, cleaning and emergency stop. Assembly, operating instructions and the spare parts list are included in the delivery package.</p>",
+    "ar": "<h2>خدمات التركيب</h2><p class=\"lead\">نسلّم أجهزتنا مع الاستقصاء والتخطيط والتركيب وتشغيل الخطوط وتدريب المشغلين. التركيب هو نقطة بداية عمل الجهاز بسلاسة في خطكم.</p><h3>الاستقصاء والتخطيط</h3><ul><li>قياس أرضية المنشأة والارتفاعات وتخطيط الخط.</li><li>تحديد أبعاد الجهاز ونقاط التثبيت والتغذية الكهربائية.</li><li>جدولة التركيب وراته التسليم.</li></ul><h3>التركيب والتشغيل</h3><ul><li>يُركَّب الجهاز بنفس معايير منشأتنا الإنتاجية.</li><li>فحص التغذية والضวงจร والدوائر الأمنية.</li><li>تجربة فارغة ومحمّلة تُوثَّق مع جودة المنتج.</li></ul><h3>التدريب والوثائق</h3><p>تدريب المشغلين وفريق الصيانة على التشغيل اليومي والضبط والتنظيف والتوقف الطارئ. ويشمل حزمة التسليم التركيب والتعليمات وقائمة قطع الغيار.</p>"
+  },
+  "title": {
+    "tr": "Kurulum Hizmetleri",
+    "en": "Installation Services",
+    "ar": "خدمات التركيب"
+  },
+  "update": "2026-10-25T15:45:07.268Z",
+  "date": "2026-10-25T14:10:10.703Z",
+  "bg": "1.jpg"
 }

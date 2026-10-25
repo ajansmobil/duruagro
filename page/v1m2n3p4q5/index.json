@@ -1,7 +1,43 @@
 {
- "text": {
-  "tr": "<h2>Vizyon ve Misyon</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak vizyonumuz; gıda işleme makinelerinde Türkiye'den dünyaya uzanan, kalitesi ve sonrası desteğiyle tanınan bir marka olmaktır. Misyonumuz; her tesise özel, dayanıklı ve yüksek verimli makina üretmektir.</p><h3>Vizyonumuz</h3><p>Gıda işleme makineleri alanında; fıstık, çekirdek ve kuru meyve hatlarında Türkiye'nin ve dünyanın tercih edilen makinici isimlerinden biri olmak. Ürün gamımızı hat entegrasyonuna uygun çözümlerle genişletmek ve ihracat pazarlarında güvenilir bir tedarikçi konumunda yer almak.</p><h3>Misyonumuz</h3><ul><li>Her tesise özel: Hammaddeye, kapasiteye ve hatta göre boyutlandırılmış makina üretmek.</li><li>Gıda güvenliğinden ödün vermeden verimliği artırmak.</li><li>Dayanıklı mekanik yapı ve paslanmaz çelik kalitesi sunmak.</li><li>Kurulum, eğitim ve teknik destekle satış sonrası ilişkisi kesintisiz tutmak.</li></ul><h3>Nasıl Ulaşırız</h3><p>Her teslimatta ölçülebilir hedefler koyuyoruz: hat durdurmayan ayar mekanizmaları, değiştirilebilir yıpranan parçalar, net teknik dokümant ve işletme personeline eğitim. Bu disiplinle büyür, her makina için aynı standardı koruyarak ilerleriz.</p>",
-  "en": "<h2>Vision and Mission</h2><p class=\"lead\">As Duru Agro Food Machinery, our vision is to be a brand recognized for quality and after-sales support, expanding from Turkey to the world in food processing machinery. Our mission is to build durable, high-efficiency machines customized for every facility.</p><h3>Our Vision</h3><p>In food processing machinery — in pistachio, kernel and dried-fruit lines — to become one of the preferred machine makers in Turkey and the world. We extend our product range with line-integration solutions and aim for a trusted supplier position in export markets.</p><h3>Our Mission</h3><ul><li>Custom per facility: machines sized to raw material, capacity and line.</li><li>Increase efficiency without compromising food safety.</li><li>Deliver durable mechanical structures and stainless-steel quality.</li><li>Keep after-sales relationships seamless through installation, training and technical support.</li></ul><h3>How We Get There</h3><p>We set measurable targets in every delivery: adjustment mechanisms that do not stop the line, replaceable wear parts, clear technical documentation and training of the facility's personnel. With this discipline we grow and keep the same standard for every machine.</p>",
-  "ar": "<h2>رؤيتنا ومهمتنا</h2><p class=\"lead\">رؤيتنا في دورو أغرو: أن نصبح علامة معروفة بالكفاءة وخدمة ما بعد البيع، تمتد من تركيا إلى العالم في مجال معدات معالجة الأغذية. مهمتنا: إنتاج معدات متينة وعالية الكفاءة ومخصصة لكل منشأة.</p><h3>رؤيتنا</h3><p>أن نكون من الأسماء الموثوقة في تجهيز خطوط الفستق والنوى والفواكه المجففة في تركيا والعالم، مع توسيع النطاق بحلول متكاملة مع الخطوط، ومكانة مورد موثوق في أسواق التصدير.</p><h3>مهمتنا</h3><ul><li>تخصيص لكل منشأة: معدات بأبعاد مناسبة للمادة الخام والإنتاجية والخط.</li><li>زيادة الكفاءة دون المساس بسلامة الغذاء.</li><li>هيكل ميكانيكي متين وجودة فولاذ مقاوم للصدأ.</li><li>استمرارية ما بعد البيع عبر التركيب والتدريب والدعم.</li></ul><h3>كيف نصل</h3><p>نضع أهدافًا قابلة للقياس في كل تسليم: آليات ضبط لا توقف الخط، وقطع قابلة للتعديل، ووثائق فنية واضحة، وتدريب لطاقم المنشأة. بهذا الانضباط ننمو ونحافظ على معيار واحد لكل جهاز.</p>"
- }
+  "name": {
+    "tr": "Vizyon & Misyon",
+    "en": "Vision & Mission",
+    "ar": "الرؤية والرسالة"
+  },
+  "id": "v1m2n3p4q5",
+  "index": 1,
+  "path": "vizyonmisyon",
+  "category": "Vision",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "url": "vizyon-misyon",
+  "icon": "home",
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Vizyon ve Misyon</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak vizyonumuz; gıda işleme makinelerinde Türkiye'den dünyaya uzanan, kalitesi ve sonrası desteğiyle tanınan bir marka olmaktır. Misyonumuz; her tesise özel, dayanıklı ve yüksek verimli makina üretmektir.</p><h3>Vizyonumuz</h3><p>Gıda işleme makineleri alanında; fıstık, çekirdek ve kuru meyve hatlarında Türkiye'nin ve dünyanın tercih edilen makinici isimlerinden biri olmak. Ürün gamımızı hat entegrasyonuna uygun çözümlerle genişletmek ve ihracat pazarlarında güvenilir bir tedarikçi konumunda yer almak.</p><h3>Misyonumuz</h3><ul><li>Her tesise özel: Hammaddeye, kapasiteye ve hatta göre boyutlandırılmış makina üretmek.</li><li>Gıda güvenliğinden ödün vermeden verimliği artırmak.</li><li>Dayanıklı mekanik yapı ve paslanmaz çelik kalitesi sunmak.</li><li>Kurulum, eğitim ve teknik destekle satış sonrası ilişkisi kesintisiz tutmak.</li></ul><h3>Nasıl Ulaşırız</h3><p>Her teslimatta ölçülebilir hedefler koyuyoruz: hat durdurmayan ayar mekanizmaları, değiştirilebilir yıpranan parçalar, net teknik dokümant ve işletme personeline eğitim. Bu disiplinle büyür, her makina için aynı standardı koruyarak ilerleriz.</p>",
+    "en": "<h2>Vision and Mission</h2><p class=\"lead\">As Duru Agro Food Machinery, our vision is to be a brand recognized for quality and after-sales support, expanding from Turkey to the world in food processing machinery. Our mission is to build durable, high-efficiency machines customized for every facility.</p><h3>Our Vision</h3><p>In food processing machinery — in pistachio, kernel and dried-fruit lines — to become one of the preferred machine makers in Turkey and the world. We extend our product range with line-integration solutions and aim for a trusted supplier position in export markets.</p><h3>Our Mission</h3><ul><li>Custom per facility: machines sized to raw material, capacity and line.</li><li>Increase efficiency without compromising food safety.</li><li>Deliver durable mechanical structures and stainless-steel quality.</li><li>Keep after-sales relationships seamless through installation, training and technical support.</li></ul><h3>How We Get There</h3><p>We set measurable targets in every delivery: adjustment mechanisms that do not stop the line, replaceable wear parts, clear technical documentation and training of the facility's personnel. With this discipline we grow and keep the same standard for every machine.</p>",
+    "ar": "<h2>رؤيتنا ومهمتنا</h2><p class=\"lead\">رؤيتنا في دورو أغرو: أن نصبح علامة معروفة بالكفاءة وخدمة ما بعد البيع، تمتد من تركيا إلى العالم في مجال معدات معالجة الأغذية. مهمتنا: إنتاج معدات متينة وعالية الكفاءة ومخصصة لكل منشأة.</p><h3>رؤيتنا</h3><p>أن نكون من الأسماء الموثوقة في تجهيز خطوط الفستق والنوى والفواكه المجففة في تركيا والعالم، مع توسيع النطاق بحلول متكاملة مع الخطوط، ومكانة مورد موثوق في أسواق التصدير.</p><h3>مهمتنا</h3><ul><li>تخصيص لكل منشأة: معدات بأبعاد مناسبة للمادة الخام والإنتاجية والخط.</li><li>زيادة الكفاءة دون المساس بسلامة الغذاء.</li><li>هيكل ميكانيكي متين وجودة فولاذ مقاوم للصدأ.</li><li>استمرارية ما بعد البيع عبر التركيب والتدريب والدعم.</li></ul><h3>كيف نصل</h3><p>نضع أهدافًا قابلة للقياس في كل تسليم: آليات ضبط لا توقف الخط، وقطع قابلة للتعديل، ووثائق فنية واضحة، وتدريب لطاقم المنشأة. بهذا الانضباط ننمو ونحافظ على معيار واحد لكل جهاز.</p>"
+  },
+  "title": {
+    "tr": "Vizyon & Misyon",
+    "en": "Vision & Mission",
+    "ar": "الرؤية والرسالة"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "update": "2026-10-25T15:45:07.306Z",
+  "date": "2026-10-25T14:10:10.122Z",
+  "bg": "1.jpg"
 }

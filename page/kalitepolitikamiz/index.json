@@ -1,7 +1,42 @@
 {
- "text": {
-  "tr": "<h2>Kalite Politikamız</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak kalitemiz; hammadde seçiminden sevkiyat öncesi teste kadar her aşamada gıda güvenliği, dayanıklılık ve tutarlılık esasına dayanır. Aşağıdaki ilkeler her üründe standarttır.</p><h3>Gıda Güvenliği</h3><ul><li>Gıda temaslı yüzeylerde paslanmaz çelik ve gıda sınıfı malzeme kullanımı.</li><li>Bant, conta ve aktarma parçalarının gıda standartlarına uygun seçimi.</li><li>Montajda hijyen: kesim ve lehim artıklarının temizlenerek teslim.</li></ul><h3>Dayanıklılık</h3><p>Mekanik yapı; endüstriyel ağır çalışma koşulları için boyutlandırılır. Yıpranan parçalar değiştirilebilir ve standart ölçülerde tutulur; kesintisiz üretim için servis erişimi kolaylaştılır.</p><h3>Tutarlılık ve Doküman</h3><ul><li>Her makina için üretim kaydını ve test sonuçları.</li><li>Montaj, çalışma talimatı ve bakım önerileriyle teknik dokümant.</li><li>Serbest ölçüleri ve revizyon notlarını içeren teslim paketi.</li></ul><h3>Sürekli İyileştirme</h3><p>Operasyon geri bildirimleri, arıza kayıtları ve müşteri istekleri; yeni üretime ve mevcut stoktan önce değerlendirdilir. Böylece her yeni jenerasyon bir öncekinden daha dayanıklı ve verimli çıkar.</p>",
-  "en": "<h2>Our Quality Policy</h2><p class=\"lead\">At Duru Agro Food Machinery, our quality is based on food safety, durability and consistency at every stage — from material selection to pre-delivery testing. The principles below are standard in every product.</p><h3>Food Safety</h3><ul><li>Stainless steel and food-grade material in food-contact surfaces.</li><li>Selection of belts, seals and transfer parts in line with food standards.</li><li>Hygiene in assembly: delivery after cleaning of cutting and welding residues.</li></ul><h3>Durability</h3><p>Mechanical structures are sized for heavy industrial conditions. Wear parts are replaceable and kept in standard dimensions; service access is made easy for uninterrupted production.</p><h3>Consistency and Documentation</h3><ul><li>A production record and test results for each machine.</li><li>Technical documentation with assembly, operating and maintenance instructions.</li><li>A delivery package including free dimensions and revision notes.</li></ul><h3>Continuous Improvement</h3><p>Operational feedback, fault records and customer requests are evaluated before new production and current stock. As a result, each new generation leaves the factory more durable and efficient than the previous one.</p>",
-  "ar": "<h2>سياسة الجودة</h2><p class=\"lead\">جودتنا في دورو أغرو تقوم على سلامة الغذاء والمتانة والثبات في كل مرحلة — من اختيار المواد حتى الفحص قبل التسليم. المبادئ أدناه معيارية في كل منتج.</p><h3>سلامة الغذاء</h3><ul><li>فولاذ مقاوم للصدأ ومواد مناسبة للأغذية في الأسطح الملامسة للطعام.</li><li>اختيار الأحزمة والحوامل ومكونات النقل وفق المعايير الغذائية.</li><li>النظافة في التركيب: التسليم بعد تنظيف بقايا القص واللحام.</li></ul><h3>المتانة</h3><p>تُصمَّم الهياكل الميكانيكية لظروف العمل الصناعي الثقيل. القطع القابلة للتهلك قابلة للاستبدال وتبقى بأبعاد قياسية؛ ويُسهّل الوصول إليها للصيانة لإنتاج غير منقطع.</p><h3>الثبات والوثائق</h3><ul><li>سجل إنتاج ونتائج اختبار لكل جهاز.</li><li>وثائق فنية: تركيب وتعليمات تشغيل وصيانة.</li><li>حزمة تسليم تشمل الأبعاد والأرقام والتعديلات.</li></ul><h3>التحسين المستمر</h3><p>تُقوَّم الملاحظات التشغيلية وسجلات الأعراض وطلبات العملاء قبل الإنتاج الجديد وقبل مخزون القائمة. وبذلك يخرج كل جيل قادم أقوى وأنجح من سابقه.</p>"
- }
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Our Quality Policy",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "id": "kalitepolitikamiz",
+  "index": 4,
+  "path": "kalite-politikamiz",
+  "category": "kurumsal",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Kalite Politikamız</h2><p class=\"lead\">Duru Agro Gıda Makinaları olarak kalitemiz; hammadde seçiminden sevkiyat öncesi teste kadar her aşamada gıda güvenliği, dayanıklılık ve tutarlılık esasına dayanır. Aşağıdaki ilkeler her üründe standarttır.</p><h3>Gıda Güvenliği</h3><ul><li>Gıda temaslı yüzeylerde paslanmaz çelik ve gıda sınıfı malzeme kullanımı.</li><li>Bant, conta ve aktarma parçalarının gıda standartlarına uygun seçimi.</li><li>Montajda hijyen: kesim ve lehim artıklarının temizlenerek teslim.</li></ul><h3>Dayanıklılık</h3><p>Mekanik yapı; endüstriyel ağır çalışma koşulları için boyutlandırılır. Yıpranan parçalar değiştirilebilir ve standart ölçülerde tutulur; kesintisiz üretim için servis erişimi kolaylaştılır.</p><h3>Tutarlılık ve Doküman</h3><ul><li>Her makina için üretim kaydını ve test sonuçları.</li><li>Montaj, çalışma talimatı ve bakım önerileriyle teknik dokümant.</li><li>Serbest ölçüleri ve revizyon notlarını içeren teslim paketi.</li></ul><h3>Sürekli İyileştirme</h3><p>Operasyon geri bildirimleri, arıza kayıtları ve müşteri istekleri; yeni üretime ve mevcut stoktan önce değerlendirdilir. Böylece her yeni jenerasyon bir öncekinden daha dayanıklı ve verimli çıkar.</p>",
+    "en": "<h2>Our Quality Policy</h2><p class=\"lead\">At Duru Agro Food Machinery, our quality is based on food safety, durability and consistency at every stage — from material selection to pre-delivery testing. The principles below are standard in every product.</p><h3>Food Safety</h3><ul><li>Stainless steel and food-grade material in food-contact surfaces.</li><li>Selection of belts, seals and transfer parts in line with food standards.</li><li>Hygiene in assembly: delivery after cleaning of cutting and welding residues.</li></ul><h3>Durability</h3><p>Mechanical structures are sized for heavy industrial conditions. Wear parts are replaceable and kept in standard dimensions; service access is made easy for uninterrupted production.</p><h3>Consistency and Documentation</h3><ul><li>A production record and test results for each machine.</li><li>Technical documentation with assembly, operating and maintenance instructions.</li><li>A delivery package including free dimensions and revision notes.</li></ul><h3>Continuous Improvement</h3><p>Operational feedback, fault records and customer requests are evaluated before new production and current stock. As a result, each new generation leaves the factory more durable and efficient than the previous one.</p>",
+    "ar": "<h2>سياسة الجودة</h2><p class=\"lead\">جودتنا في دورو أغرو تقوم على سلامة الغذاء والمتانة والثبات في كل مرحلة — من اختيار المواد حتى الفحص قبل التسليم. المبادئ أدناه معيارية في كل منتج.</p><h3>سلامة الغذاء</h3><ul><li>فولاذ مقاوم للصدأ ومواد مناسبة للأغذية في الأسطح الملامسة للطعام.</li><li>اختيار الأحزمة والحوامل ومكونات النقل وفق المعايير الغذائية.</li><li>النظافة في التركيب: التسليم بعد تنظيف بقايا القص واللحام.</li></ul><h3>المتانة</h3><p>تُصمَّم الهياكل الميكانيكية لظروف العمل الصناعي الثقيل. القطع القابلة للتهلك قابلة للاستبدال وتبقى بأبعاد قياسية؛ ويُسهّل الوصول إليها للصيانة لإنتاج غير منقطع.</p><h3>الثبات والوثائق</h3><ul><li>سجل إنتاج ونتائج اختبار لكل جهاز.</li><li>وثائق فنية: تركيب وتعليمات تشغيل وصيانة.</li><li>حزمة تسليم تشمل الأبعاد والأرقام والتعديلات.</li></ul><h3>التحسين المستمر</h3><p>تُقوَّم الملاحظات التشغيلية وسجلات الأعراض وطلبات العملاء قبل الإنتاج الجديد وقبل مخزون القائمة. وبذلك يخرج كل جيل قادم أقوى وأنجح من سابقه.</p>"
+  },
+  "title": {
+    "tr": "Kalite Politikamız",
+    "en": "Our Quality Policy",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "update": "2026-10-25T15:45:07.270Z",
+  "date": "2026-10-25T14:10:10.221Z",
+  "bg": "1.jpg"
 }

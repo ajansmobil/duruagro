@@ -1,7 +1,44 @@
 {
- "text": {
-  "tr": "<h2>İç Fıstık Kalibrasyon Eleği</h2><p class=\"lead\">İç fıstık kalibrasyon eleği; iç (çekirdek) fıstığı, boyut ve ağırlık sınıfına göre kalibre eden eleme makinesidir. Paketleme öncesi homojen ürün sınıfı ve standart ağırlık hedefi için hatlarda kullanılır.</p><h3>Ürün Tanıtımı</h3><p>İç fıstık, eleme yüzeyine eşit akışla gelir; tane boyutu, eleme aralığı ve sızdırma kanalı ile sınıflandırır. Sınıflandırma sayıları ve aralıkları, hammadde dağılımına göre ayarlanır. Üçüncü döküm noktasından hafif taneler ayrılabilir.</p><h3>Özellikleri</h3><ul><li>İç tane boyutuna göre çoklu kanal kalibrasyon.</li><li>Gıda sınıfı elenme yüzeyi ve paslanmaz çelik gövde.</li><li>Ayarlanabilir eleme aralığı.</li><li>Düşük kırılma oranı; yumuşak akış.</li></ul><h3>Kullanım Alanları</h3><ul><li>Fıstık içi kalibrasyonu ve boyut sınıfı.</li><li>Paketleme ve ihracat sınıfı ürün hazırlama.</li><li>Fıstık işleme hatlarında sınıflandırma basamağı.</li></ul>",
-  "en": "<h2>Pistachio Kernel Calibrating Screen</h2><p class=\"lead\">The kernel calibrating screen is a screening machine that grades shelled pistachio by size and weight class. It is used in the lines for a homogeneous product class and a standard weight target before packaging.</p><h3>Introduction</h3><p>The kernel enters the screen surface with an even flow; kernel size is classified by the screen openings and the discharge chutes. The number of classes and gaps is adjusted to the raw material distribution. Light kernels can be separated from the third discharge point.</p><h3>Features</h3><ul><li>Multi-channel calibration according to kernel size.</li><li>Food-grade screen surface and stainless steel body.</li><li>Adjustable screen openings.</li><li>Low break rate; smooth flow.</li></ul><h3>Applications</h3><ul><li>Pistachio kernel calibration and size classes.</li><li>Preparing packaging- and export-class product.</li><li>Classification stage in pistachio processing lines.</li></ul>",
-  "ar": "<h2>مصفاة معايرة نوى الفستق</h2><p class=\"lead\">مصفاة معايرة النوى جهاز فرز يصنف نوى الفستق المجفف حسب حجمه وفئة وزنه. يُستخدم في الخطوط لفئة منتج متجانسة ومستهدف وزن قياسي قبل التغليف.</p><h3>نبذة عن المنتج</h3><p>تدخل النوى إلى سطح الفرز بتدفق متساوٍ؛ ويُصنف حجم النوى عبر فتحات الفرز وقنوات التفريغ. وتُضبط عدد الفئات والفجوات وفق توزيع المادة الخام. ويمكن فصل النوى الخفيفة من نقطة التفريغ الثالثة.</p><h3>المميزات</h3><ul><li>معايرة متعددة القنوات وفق حجم النوى.</li><li>سطح فرز مناسب للأغذية وهيكل من الفولاذ المقاوم للصدأ.</li><li>فتحات فرز قابلة للضبط.</li><li>معدل تحطم منخفض؛ تدفق ناعم.</li></ul><h3>مجالات الاستخدام</h3><ul><li>معايرة نوى الفستق وفئات الحجم.</li><li>تجهيز منتج من فئة التغليف والتصدير.</li><li>مرحلة التصنيف في خطوط معالجة الفستق.</li></ul>"
- }
+  "name": {
+    "tr": "İç Fıstık Kalibrasyon Eleği",
+    "en": "Pistachio Calibration Sieve",
+    "ar": "منخل معايرة الفستق"
+  },
+  "id": "ouyknqov2f",
+  "index": 4,
+  "path": "icfistikkalibrasyonelegi",
+  "category": "Calibration Equipment",
+  "img": "w4j5q.jpg",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "url": "pistachio-calibration-sieve",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>İç Fıstık Kalibrasyon Eleği</h2><p class=\"lead\">İç fıstık kalibrasyon eleği; iç (çekirdek) fıstığı, boyut ve ağırlık sınıfına göre kalibre eden eleme makinesidir. Paketleme öncesi homojen ürün sınıfı ve standart ağırlık hedefi için hatlarda kullanılır.</p><h3>Ürün Tanıtımı</h3><p>İç fıstık, eleme yüzeyine eşit akışla gelir; tane boyutu, eleme aralığı ve sızdırma kanalı ile sınıflandırır. Sınıflandırma sayıları ve aralıkları, hammadde dağılımına göre ayarlanır. Üçüncü döküm noktasından hafif taneler ayrılabilir.</p><h3>Özellikleri</h3><ul><li>İç tane boyutuna göre çoklu kanal kalibrasyon.</li><li>Gıda sınıfı elenme yüzeyi ve paslanmaz çelik gövde.</li><li>Ayarlanabilir eleme aralığı.</li><li>Düşük kırılma oranı; yumuşak akış.</li></ul><h3>Kullanım Alanları</h3><ul><li>Fıstık içi kalibrasyonu ve boyut sınıfı.</li><li>Paketleme ve ihracat sınıfı ürün hazırlama.</li><li>Fıstık işleme hatlarında sınıflandırma basamağı.</li></ul>",
+    "en": "<h2>Pistachio Kernel Calibrating Screen</h2><p class=\"lead\">The kernel calibrating screen is a screening machine that grades shelled pistachio by size and weight class. It is used in the lines for a homogeneous product class and a standard weight target before packaging.</p><h3>Introduction</h3><p>The kernel enters the screen surface with an even flow; kernel size is classified by the screen openings and the discharge chutes. The number of classes and gaps is adjusted to the raw material distribution. Light kernels can be separated from the third discharge point.</p><h3>Features</h3><ul><li>Multi-channel calibration according to kernel size.</li><li>Food-grade screen surface and stainless steel body.</li><li>Adjustable screen openings.</li><li>Low break rate; smooth flow.</li></ul><h3>Applications</h3><ul><li>Pistachio kernel calibration and size classes.</li><li>Preparing packaging- and export-class product.</li><li>Classification stage in pistachio processing lines.</li></ul>",
+    "ar": "<h2>مصفاة معايرة نوى الفستق</h2><p class=\"lead\">مصفاة معايرة النوى جهاز فرز يصنف نوى الفستق المجفف حسب حجمه وفئة وزنه. يُستخدم في الخطوط لفئة منتج متجانسة ومستهدف وزن قياسي قبل التغليف.</p><h3>نبذة عن المنتج</h3><p>تدخل النوى إلى سطح الفرز بتدفق متساوٍ؛ ويُصنف حجم النوى عبر فتحات الفرز وقنوات التفريغ. وتُضبط عدد الفئات والفجوات وفق توزيع المادة الخام. ويمكن فصل النوى الخفيفة من نقطة التفريغ الثالثة.</p><h3>المميزات</h3><ul><li>معايرة متعددة القنوات وفق حجم النوى.</li><li>سطح فرز مناسب للأغذية وهيكل من الفولاذ المقاوم للصدأ.</li><li>فتحات فرز قابلة للضبط.</li><li>معدل تحطم منخفض؛ تدفق ناعم.</li></ul><h3>مجالات الاستخدام</h3><ul><li>معايرة نوى الفستق وفئات الحجم.</li><li>تجهيز منتج من فئة التغليف والتصدير.</li><li>مرحلة التصنيف في خطوط معالجة الفستق.</li></ul>"
+  },
+  "title": {
+    "tr": "İç Fıstık Kalibrasyon Eleği",
+    "en": "Pistachio Calibration Sieve",
+    "ar": "منخل معايرة الفستق"
+  },
+  "update": "2026-10-25T15:45:07.295Z",
+  "date": "2026-10-25T14:10:10.432Z",
+  "bg": "1.jpg"
 }

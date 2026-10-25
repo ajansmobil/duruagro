@@ -1,7 +1,42 @@
 {
- "text": {
-  "tr": "<h2>Kişisel Verilerin İşlenmesi Hakkında Aydınlatma</h2><p class=\"lead\">Duru Agro Gıda Makinaları Sanayi ve Ticaret Limited Şirketi olarak, KVKK kapsamında sizden aldığımız kişisel verilerin işlenmesine ilişkin bilgileri aşağıda özetliyoruz.</p><h3>Veri Sorumlusu</h3><p>Duru Agro Gıda Makinaları San. ve Tic. Ltd. Şti. — Sanayi Mah. 60215. Cad. No:59 Şehitkamil/Gaziantep; telefon 0 530 233 66 72; e-posta info@duruagro.com.</p><h3>Hangi Veriler İşlenir</h3><ul><li>Kimlik bilgileri: ad, soyad, unvan.</li><li>İletişim: telefon, e-posta, adres.</li><li>Ticari: firma adı, sipariş ve servis kayıtları, makina kimlikleri.</li></ul><h3>Amaçlar</h3><ul><li>Teklif ve satış süreçlerinin yürütülmesi.</li><li>Üretim, teslimat ve devreye alma planlaması.</li><li>Satış sonrası teknik destek ve servis.</li><li>Lisans ve fatura yükümlülükleri.</li></ul><h3>Aktarım ve Saklama</h3><p>Verileriniz hizmetin gerektirdiği ölçüde iş ortaklarıyla paylaşılabilir; uluslararası aktarım ancak yasal dayanakla yapılır. Veriler, amaç gerektirdiği sürece saklanır; süre sona erdiğinde silinir veya anonim hale getirilir.</p><h3>Haklarınız</h3><p>Verilerinize erişme, işlenmesini düzeltme, silme/ihlal, kullanım amacına itiraz ve otomatik kararın itirazı haklarınıza sahipsiniz. Başvuru kanunu info@duruagro.com adresidir.</p>",
-  "en": "<h2>Personal Data Processing — Information Notice</h2><p class=\"lead\">As Duru Agro Food Machinery Industrial and Trade Ltd. Co., we summarize below the information on the processing of personal data, within the scope of KVKK (Personal Data Protection Law).</p><h3>Data Controller</h3><p>Duru Agro Gıda Makinaları San. ve Tic. Ltd. Şti. — Sanayi Mah. 60215. St. No:59 Şehitkamil/Gaziantep; phone 0 530 233 66 72; e-mail info@duruagro.com.</p><h3>Data Processed</h3><ul><li>Identity: name, surname, title.</li><li>Contact: phone, e-mail, address.</li><li>Commercial: company name, order and service records, machine identifications.</li></ul><h3>Purposes</h3><ul><li>Running quote and sales processes.</li><li>Planning production, delivery and commissioning.</li><li>After-sales technical support and service.</li><li>Warranty and invoicing obligations.</li></ul><h3>Transfer and Retention</h3><p>Your data may be shared with business partners to the extent the service requires; international transfer is made only with legal basis. Data is kept for as long as the purpose requires and is deleted or anonymized when the period ends.</p><h3>Your Rights</h3><p>You have the right to access, correct, delete your data, object to its use and object to automated decisions. The application channel is info@duruagro.com.</p>",
-  "ar": "<h2>تصريح بمعالجة البيانات الشخصية</h2><p class=\"lead\">بصفتنا دورو أغرو لمرافق الأغذية — شركة صناعية وتجارية — نُرجعكم أدناه عن معلوماتنا حول معالجة البيانات الشخصية ضمن نطاق KVKK.</p><h3>مسؤول البيانات</h3><p>دورو أغرو لمعدات الأغذية — حي الصناعية شارع 60215 رقم 59 شهيد كامل/غازي عنتاب؛ الهاتف 0 530 233 66 72؛ البريد info@duruagro.com.</p><h3>البيانات المعالجة</h3><ul><li>هوية: الاسم الأول والاسم الأخير والوظيفة.</li><li>التواصل: الهاتف، البريد، العنوان.</li><li>تجارية: اسم المنشأة، سجلات الطلبات والصيانة، هوية الجهاز.</li></ul><h3>الغايات</h3><ul><li>تشغيل عمليات عروض الأسعار والمبيعات.</li><li>تخطيط الإنتاج والتسليم وتشغيل الخطوط.</li><li>الدعم التقني ما بعد البيع وخدمة الصيانة.</li><li>التزامات الضمان والفوترة.</li></ul><h3>النقل والتخزين</h3><p>قد تُشارك بياناتكم مع الشركاء التجاريين بالقدر الذي تتطلبه الخدمة؛ ولا يتم النقل الدولي إلا بقاعدة قانونية. تُحفظ البيانات ما دامت الغاية قائمة، ثم تُحذف أو تُجهَّل عند انتهاء المدة.</p><h3>حقوقكم</h3><p>لكم حق الوصول والتصحيح والحظر والمعارضة والمعارضة لقرارات الأتمتة. قناة الطلبات: info@duruagro.com.</p>"
- }
+  "name": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية"
+  },
+  "id": "kisiselveriler",
+  "index": 6,
+  "path": "kisisel-veriler",
+  "category": "kurumsal",
+  "bgimg": "1.jpg",
+  "status": "play",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h2>Kişisel Verilerin İşlenmesi Hakkında Aydınlatma</h2><p class=\"lead\">Duru Agro Gıda Makinaları Sanayi ve Ticaret Limited Şirketi olarak, KVKK kapsamında sizden aldığımız kişisel verilerin işlenmesine ilişkin bilgileri aşağıda özetliyoruz.</p><h3>Veri Sorumlusu</h3><p>Duru Agro Gıda Makinaları San. ve Tic. Ltd. Şti. — Sanayi Mah. 60215. Cad. No:59 Şehitkamil/Gaziantep; telefon 0 530 233 66 72; e-posta info@duruagro.com.</p><h3>Hangi Veriler İşlenir</h3><ul><li>Kimlik bilgileri: ad, soyad, unvan.</li><li>İletişim: telefon, e-posta, adres.</li><li>Ticari: firma adı, sipariş ve servis kayıtları, makina kimlikleri.</li></ul><h3>Amaçlar</h3><ul><li>Teklif ve satış süreçlerinin yürütülmesi.</li><li>Üretim, teslimat ve devreye alma planlaması.</li><li>Satış sonrası teknik destek ve servis.</li><li>Lisans ve fatura yükümlülükleri.</li></ul><h3>Aktarım ve Saklama</h3><p>Verileriniz hizmetin gerektirdiği ölçüde iş ortaklarıyla paylaşılabilir; uluslararası aktarım ancak yasal dayanakla yapılır. Veriler, amaç gerektirdiği sürece saklanır; süre sona erdiğinde silinir veya anonim hale getirilir.</p><h3>Haklarınız</h3><p>Verilerinize erişme, işlenmesini düzeltme, silme/ihlal, kullanım amacına itiraz ve otomatik kararın itirazı haklarınıza sahipsiniz. Başvuru kanunu info@duruagro.com adresidir.</p>",
+    "en": "<h2>Personal Data Processing — Information Notice</h2><p class=\"lead\">As Duru Agro Food Machinery Industrial and Trade Ltd. Co., we summarize below the information on the processing of personal data, within the scope of KVKK (Personal Data Protection Law).</p><h3>Data Controller</h3><p>Duru Agro Gıda Makinaları San. ve Tic. Ltd. Şti. — Sanayi Mah. 60215. St. No:59 Şehitkamil/Gaziantep; phone 0 530 233 66 72; e-mail info@duruagro.com.</p><h3>Data Processed</h3><ul><li>Identity: name, surname, title.</li><li>Contact: phone, e-mail, address.</li><li>Commercial: company name, order and service records, machine identifications.</li></ul><h3>Purposes</h3><ul><li>Running quote and sales processes.</li><li>Planning production, delivery and commissioning.</li><li>After-sales technical support and service.</li><li>Warranty and invoicing obligations.</li></ul><h3>Transfer and Retention</h3><p>Your data may be shared with business partners to the extent the service requires; international transfer is made only with legal basis. Data is kept for as long as the purpose requires and is deleted or anonymized when the period ends.</p><h3>Your Rights</h3><p>You have the right to access, correct, delete your data, object to its use and object to automated decisions. The application channel is info@duruagro.com.</p>",
+    "ar": "<h2>تصريح بمعالجة البيانات الشخصية</h2><p class=\"lead\">بصفتنا دورو أغرو لمرافق الأغذية — شركة صناعية وتجارية — نُرجعكم أدناه عن معلوماتنا حول معالجة البيانات الشخصية ضمن نطاق KVKK.</p><h3>مسؤول البيانات</h3><p>دورو أغرو لمعدات الأغذية — حي الصناعية شارع 60215 رقم 59 شهيد كامل/غازي عنتاب؛ الهاتف 0 530 233 66 72؛ البريد info@duruagro.com.</p><h3>البيانات المعالجة</h3><ul><li>هوية: الاسم الأول والاسم الأخير والوظيفة.</li><li>التواصل: الهاتف، البريد، العنوان.</li><li>تجارية: اسم المنشأة، سجلات الطلبات والصيانة، هوية الجهاز.</li></ul><h3>الغايات</h3><ul><li>تشغيل عمليات عروض الأسعار والمبيعات.</li><li>تخطيط الإنتاج والتسليم وتشغيل الخطوط.</li><li>الدعم التقني ما بعد البيع وخدمة الصيانة.</li><li>التزامات الضمان والفوترة.</li></ul><h3>النقل والتخزين</h3><p>قد تُشارك بياناتكم مع الشركاء التجاريين بالقدر الذي تتطلبه الخدمة؛ ولا يتم النقل الدولي إلا بقاعدة قانونية. تُحفظ البيانات ما دامت الغاية قائمة، ثم تُحذف أو تُجهَّل عند انتهاء المدة.</p><h3>حقوقكم</h3><p>لكم حق الوصول والتصحيح والحظر والمعارضة والمعارضة لقرارات الأتمتة. قناة الطلبات: info@duruagro.com.</p>"
+  },
+  "title": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية"
+  },
+  "update": "2026-10-25T15:45:07.276Z",
+  "date": "2026-10-25T14:10:10.272Z",
+  "bg": "1.jpg"
 }
