@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://duruagro.com/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://duruagro.com/tr/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/" />
-        <lastmod>2026-10-25</lastmod>
+        <lastmod>2026-10-26</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -17,7 +18,7 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/" />
-        <lastmod>2026-10-25</lastmod>
+        <lastmod>2026-10-26</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -27,7 +28,7 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/" />
-        <lastmod>2026-10-25</lastmod>
+        <lastmod>2026-10-26</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -37,7 +38,7 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/" />
-        <lastmod>2026-10-25</lastmod>
+        <lastmod>2026-10-26</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -432,11 +433,45 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://duruagro.com/tr/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://duruagro.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://duruagro.com/en/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://duruagro.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://duruagro.com/ar/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://duruagro.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://duruagro.com/tr/4katlitemizlemeelegi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://duruagro.com/tr/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/4katlitemizlemeelegi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/g0dbhk18mz/x9dfr.webp</image:loc>
+            <image:title>4 Katlı Temizleme Eleği</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -447,6 +482,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/4katlitemizlemeelegi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/g0dbhk18mz/x9dfr.webp</image:loc>
+            <image:title>4-Piece Cleaning Sieve</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -457,6 +496,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/4katlitemizlemeelegi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/g0dbhk18mz/x9dfr.webp</image:loc>
+            <image:title>منخل تحميص 4 قطعة</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -467,6 +510,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/donerkavurmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/c29hzvm3te/o46cc.webp</image:loc>
+            <image:title>Döner Kavurma Makinesi</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -477,6 +524,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/donerkavurmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/c29hzvm3te/o46cc.webp</image:loc>
+            <image:title>Doner Roasting Machine</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -487,6 +538,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/donerkavurmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/c29hzvm3te/o46cc.webp</image:loc>
+            <image:title>ماكينة تحميص الدونر</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -497,6 +552,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/fistikkirmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/h1s8csxbk8/jjm56.webp</image:loc>
+            <image:title>Fıstık Kırma Makinesi</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -507,6 +566,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/fistikkirmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/h1s8csxbk8/jjm56.webp</image:loc>
+            <image:title>Peanut Crushing Machine</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -517,6 +580,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/fistikkirmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/h1s8csxbk8/jjm56.webp</image:loc>
+            <image:title>آلة طحن الفول السوداني</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -527,6 +594,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/hafiftaneayiklamamakinasi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/g9z1rp5hcq/cmo9v.webp</image:loc>
+            <image:title>Hafif Tane Ayıklama Makinası</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -537,6 +608,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/hafiftaneayiklamamakinasi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/g9z1rp5hcq/cmo9v.webp</image:loc>
+            <image:title>Light Grain Sorting Machine</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -547,6 +622,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/hafiftaneayiklamamakinasi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/g9z1rp5hcq/cmo9v.webp</image:loc>
+            <image:title>ماكينة فرز الحبوب الخفيفة</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -557,6 +636,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/icfistikkalibrasyonelegi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ouyknqov2f/w4j5q.webp</image:loc>
+            <image:title>İç Fıstık Kalibrasyon Eleği</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -567,6 +650,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/icfistikkalibrasyonelegi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ouyknqov2f/w4j5q.webp</image:loc>
+            <image:title>Pistachio Calibration Sieve</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -577,6 +664,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/icfistikkalibrasyonelegi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ouyknqov2f/w4j5q.webp</image:loc>
+            <image:title>منخل معايرة الفستق</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -587,6 +678,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/paletlikavurmafirini/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/kpyewtvsc8/szpwf.webp</image:loc>
+            <image:title>Paletli Kavurma Fırını</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -597,6 +692,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/paletlikavurmafirini/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/kpyewtvsc8/szpwf.webp</image:loc>
+            <image:title>Pallet Roasting Oven</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -607,6 +706,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/paletlikavurmafirini/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/kpyewtvsc8/szpwf.webp</image:loc>
+            <image:title>فرن تحميص البليت</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -617,6 +720,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/savurmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/o77466x92r/sjyaw.webp</image:loc>
+            <image:title>Savurma Makinesı</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -627,6 +734,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/savurmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/o77466x92r/sjyaw.webp</image:loc>
+            <image:title>Winding Machine</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -637,6 +748,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/savurmamakinesi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/o77466x92r/sjyaw.webp</image:loc>
+            <image:title>آلة لف</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -647,6 +762,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/tasayirmamakinasi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ketmzfa09e/st2tk.webp</image:loc>
+            <image:title>Taş Ayırma Makinası</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -657,6 +776,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/tasayirmamakinasi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ketmzfa09e/st2tk.webp</image:loc>
+            <image:title>Stone Separating Machine</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -667,6 +790,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/tasayirmamakinasi/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ketmzfa09e/st2tk.webp</image:loc>
+            <image:title>آلة فصل الحجر</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -677,6 +804,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator1/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator1/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/al4iwmdtey/caayx.webp</image:loc>
+            <image:title>Elevatör 1</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -687,6 +818,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator1/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator1/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/al4iwmdtey/caayx.webp</image:loc>
+            <image:title>Elevator 1</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -697,6 +832,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator1/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator1/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/al4iwmdtey/caayx.webp</image:loc>
+            <image:title>مصعد 1</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -707,6 +846,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator2/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator2/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/kmnvuyqxp0/q6in3.webp</image:loc>
+            <image:title>Elevatör 2</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -717,6 +860,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator2/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator2/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/kmnvuyqxp0/q6in3.webp</image:loc>
+            <image:title>Elevator 2</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -727,6 +874,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator2/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator2/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/kmnvuyqxp0/q6in3.webp</image:loc>
+            <image:title>مصعد 2</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -737,6 +888,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator3/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator3/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/abibxovppd/zsyjy.webp</image:loc>
+            <image:title>Elevatör 3</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -747,6 +902,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator3/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator3/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/abibxovppd/zsyjy.webp</image:loc>
+            <image:title>Elevator 3</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -757,6 +916,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator3/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator3/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/abibxovppd/zsyjy.webp</image:loc>
+            <image:title>مصعد 3</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -767,6 +930,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator4/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator4/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ymsjlmnjje/ftxvs.webp</image:loc>
+            <image:title>Elevatör 4</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -777,6 +944,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator4/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator4/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ymsjlmnjje/ftxvs.webp</image:loc>
+            <image:title>Elevator 4</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -787,6 +958,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator4/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator4/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/ymsjlmnjje/ftxvs.webp</image:loc>
+            <image:title>مصعد 4</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -797,6 +972,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator5/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator5/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/bhhu4xxqwu/wxycg.webp</image:loc>
+            <image:title>Elevatör 5</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -807,6 +986,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator5/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator5/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/bhhu4xxqwu/wxycg.webp</image:loc>
+            <image:title>Elevator 5</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -817,6 +1000,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator5/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator5/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/bhhu4xxqwu/wxycg.webp</image:loc>
+            <image:title>مصعد 5</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -827,6 +1014,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator6/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator6/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/p0oj58ed66/nv0rd.webp</image:loc>
+            <image:title>Elevatör 6</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -837,6 +1028,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator6/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator6/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/p0oj58ed66/nv0rd.webp</image:loc>
+            <image:title>Elevator 6</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -847,6 +1042,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator6/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator6/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/p0oj58ed66/nv0rd.webp</image:loc>
+            <image:title>مصعد 6</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -857,6 +1056,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator7/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator7/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/rjf6l83hy2/desas.webp</image:loc>
+            <image:title>Elevatör 7</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -867,6 +1070,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator7/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator7/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/rjf6l83hy2/desas.webp</image:loc>
+            <image:title>Elevator 7</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -877,6 +1084,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://duruagro.com/en/elevator7/" />
         <xhtml:link rel="alternate" hreflang="ar" href="https://duruagro.com/ar/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://duruagro.com/tr/elevator7/" />
+        <image:image>
+            <image:loc>https://duruagro.com/page/rjf6l83hy2/desas.webp</image:loc>
+            <image:title>مصعد 7</image:title>
+        </image:image>
         <lastmod>2026-10-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

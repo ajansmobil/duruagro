@@ -1,7 +1,4 @@
 {
-  "name": "Kurumsal",
-  "path": "kurumsal",
-  "desc": [],
   "data": [
     {
       "name": {
@@ -10,7 +7,7 @@
         "ar": "معلومات عنا"
       },
       "id": "h1k2m3n4p5",
-      "index": 0,
+      "index": 1,
       "path": "hakkimizda",
       "category": "About",
       "bgimg": "1.jpg",
@@ -35,7 +32,7 @@
         "ar": "الرؤية والرسالة"
       },
       "id": "v1m2n3p4q5",
-      "index": 1,
+      "index": 2,
       "path": "vizyonmisyon",
       "category": "Vision",
       "bgimg": "1.jpg",
@@ -60,7 +57,7 @@
         "ar": "مهمة"
       },
       "id": "misyon",
-      "index": 2,
+      "index": 3,
       "path": "misyon",
       "category": "kurumsal",
       "bgimg": "1.jpg",
@@ -84,7 +81,7 @@
         "ar": "رؤية"
       },
       "id": "vizyon",
-      "index": 3,
+      "index": 4,
       "path": "vizyon",
       "category": "kurumsal",
       "bgimg": "1.jpg",
@@ -108,7 +105,7 @@
         "ar": "سياسة الجودة لدينا"
       },
       "id": "kalitepolitikamiz",
-      "index": 4,
+      "index": 5,
       "path": "kalite-politikamiz",
       "category": "kurumsal",
       "bgimg": "1.jpg",
@@ -132,7 +129,7 @@
         "ar": "سياسة الخصوصية"
       },
       "id": "gizlilikpolitikasi",
-      "index": 5,
+      "index": 6,
       "path": "gizlilik-politikasi",
       "category": "kurumsal",
       "bgimg": "1.jpg",
@@ -156,7 +153,7 @@
         "ar": "البيانات الشخصية"
       },
       "id": "kisiselveriler",
-      "index": 6,
+      "index": 7,
       "path": "kisisel-veriler",
       "category": "kurumsal",
       "bgimg": "1.jpg",
@@ -180,7 +177,7 @@
         "ar": "حقوق المستخدم"
       },
       "id": "kullanicahaklari",
-      "index": 7,
+      "index": 8,
       "path": "kullanicihaklari",
       "category": "kurumsal",
       "bgimg": "1.jpg",
@@ -204,7 +201,7 @@
         "ar": "تحذير قانوني"
       },
       "id": "yasaluyari",
-      "index": 8,
+      "index": 9,
       "path": "yasal-uyari",
       "category": "kurumsal",
       "bgimg": "1.jpg",
@@ -220,9 +217,34 @@
         "en": "",
         "ar": ""
       }
+    },
+    {
+      "id": "cerez-politikasi",
+      "name": {
+        "tr": "Çerez Politikası",
+        "en": "Cookie Policy",
+        "ar": "سياسة ملفات تعريف الارتباط"
+      },
+      "description": {
+        "tr": "Bu politika, Duru Agro Gıda Makinaları tarafından işletilen duruagro.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını…",
+        "en": "Which cookies are used on this website, for what purposes, and how you can manage your preferences.",
+        "ar": "ما هي ملفات تعريف الارتباط المستخدمة في هذا الموقع، ولأي أغراض، وكيف يمكنكم إدارة تفضيلاتكم."
+      },
+      "path": "cerez-politikasi",
+      "icon": "cookie",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "dbpgxi"
+        ],
+        "footer": []
+      },
+      "index": 9
     }
   ],
-  "index": 1,
+  "desc": [],
   "desing": {
     "header": [],
     "body": [

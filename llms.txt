@@ -1,0 +1,45 @@
+# Duru Agro Gıda Makinaları
+
+> Duru Agro Gıda Makinaları
+
+Web: https://duruagro.com/tr/ · Diller: tr, en, ar (varsayilan: tr)
+
+## Sayfalar
+- [Duru Agro Gıda Makinaları](https://duruagro.com/tr/): Duru Agro Gıda Makinaları
+- [Kurumsal](https://duruagro.com/tr/kurumsal/)
+- [Ürünlerimiz](https://duruagro.com/tr/urunlerimiz/)
+- [İletişim](https://duruagro.com/tr/iletisim/)
+- [Hizmetler](https://duruagro.com/tr/services/)
+- [Hakkımızda](https://duruagro.com/tr/hakkimizda/)
+- [Vizyon & Misyon](https://duruagro.com/tr/vizyonmisyon/)
+- [Misyon](https://duruagro.com/tr/misyon/)
+- [Vizyon](https://duruagro.com/tr/vizyon/)
+- [Kalite Politikamız](https://duruagro.com/tr/kalite-politikamiz/)
+- [Gizlilik Politikası](https://duruagro.com/tr/gizlilik-politikasi/)
+- [Kişisel Veriler](https://duruagro.com/tr/kisisel-veriler/)
+- [Kullanıcı Hakları](https://duruagro.com/tr/kullanicihaklari/)
+- [Yasal Uyarı](https://duruagro.com/tr/yasal-uyari/)
+- [Çerez Politikası](https://duruagro.com/tr/cerez-politikasi/): Bu politika, Duru Agro Gıda Makinaları tarafından işletilen duruagro.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını…
+- [Teknik Destek](https://duruagro.com/tr/teknikdestek/)
+- [Kurulum Hizmetleri](https://duruagro.com/tr/kurulumhizmetleri/)
+
+## Urunler
+- [4 Katlı Temizleme Eleği](https://duruagro.com/tr/4katlitemizlemeelegi/)
+- [Döner Kavurma Makinesi](https://duruagro.com/tr/donerkavurmamakinesi/)
+- [Fıstık Kırma Makinesi](https://duruagro.com/tr/fistikkirmamakinesi/)
+- [Hafif Tane Ayıklama Makinası](https://duruagro.com/tr/hafiftaneayiklamamakinasi/)
+- [İç Fıstık Kalibrasyon Eleği](https://duruagro.com/tr/icfistikkalibrasyonelegi/)
+- [Paletli Kavurma Fırını](https://duruagro.com/tr/paletlikavurmafirini/)
+- [Savurma Makinesı](https://duruagro.com/tr/savurmamakinesi/)
+- [Taş Ayırma Makinası](https://duruagro.com/tr/tasayirmamakinasi/)
+- [Elevatör 1](https://duruagro.com/tr/elevator1/)
+- [Elevatör 2](https://duruagro.com/tr/elevator2/)
+- [Elevatör 3](https://duruagro.com/tr/elevator3/)
+- [Elevatör 4](https://duruagro.com/tr/elevator4/)
+- [Elevatör 5](https://duruagro.com/tr/elevator5/)
+- [Elevatör 6](https://duruagro.com/tr/elevator6/)
+- [Elevatör 7](https://duruagro.com/tr/elevator7/)
+
+## Diger
+- [sitemap.xml](https://duruagro.com/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://duruagro.com/llms-full.txt): sayfa govdeleri duz metin

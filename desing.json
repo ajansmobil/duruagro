@@ -22,5 +22,59 @@
     "dlcz27"
   ],
   "headtop": "",
-  "headbottom": ""
+  "headbottom": "",
+  "colors": {
+    "lite": [
+      {
+        "name": "--color1--",
+        "value": "#FFFFFF"
+      },
+      {
+        "name": "--color2--",
+        "value": "#EEF0F5"
+      },
+      {
+        "name": "--bg--",
+        "value": "#F9FAFD"
+      },
+      {
+        "name": "--text--",
+        "value": "#1D1F24"
+      },
+      {
+        "name": "--button--",
+        "value": "#060933"
+      },
+      {
+        "name": "--buttonText--",
+        "value": "#FFFFFF"
+      }
+    ],
+    "dark": [
+      {
+        "name": "--color1--",
+        "value": "#18191D"
+      },
+      {
+        "name": "--color2--",
+        "value": "#222429"
+      },
+      {
+        "name": "--bg--",
+        "value": "#0D0E11"
+      },
+      {
+        "name": "--text--",
+        "value": "#EAEBEE"
+      },
+      {
+        "name": "--button--",
+        "value": "#94A3D1"
+      },
+      {
+        "name": "--buttonText--",
+        "value": "#0D0F16"
+      }
+    ]
+  }
 }
